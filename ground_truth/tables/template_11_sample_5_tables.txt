@@ -1,0 +1,130 @@
+Olivia T. Brennan
+DOB: 04/12/1995   Age: 31   Sex: F
+Acct#: 62441-E     Physician: Dr. Marcus J. Cohen, MD
+PRECISION DIAGNOSTIC LAB
+04/18/2026  09:00
+04/18/2026  09:50
+04/18/2026  11:00
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+82
+80
+02/20/2026
+mg/dL
+70-99
+BUN
+10
+11
+02/20/2026
+mg/dL
+7-25
+Creatinine
+0.65
+0.62
+02/20/2026
+mg/dL
+0.57-1.00
+eGFR
+125
+120
+02/20/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+15
+18
+02/20/2026
+ratio
+6-22
+Sodium
+141
+140
+02/20/2026
+mEq/L
+136-145
+Potassium
+4.0
+3.9
+02/20/2026
+mEq/L
+3.5-5.1
+Chloride
+103
+104
+02/20/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+27
+26
+02/20/2026
+mEq/L
+21-32
+Calcium
+9.5
+9.4
+02/20/2026
+mg/dL
+8.6-10.3
+Protein, Total
+7.4
+7.2
+02/20/2026
+g/dL
+6.1-8.1
+Albumin
+4.6
+4.5
+02/20/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.8
+2.7
+02/20/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.3
+0.4
+02/20/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+60
+62
+02/20/2026
+U/L
+44-121
+AST (SGOT)
+17
+16
+02/20/2026
+U/L
+10-40
+ALT (SGOT)
+13
+14
+02/20/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+4.9
+5.0
+02/20/2026
+%
+<5.7

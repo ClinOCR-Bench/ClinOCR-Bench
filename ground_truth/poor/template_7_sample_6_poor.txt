@@ -1,0 +1,25 @@
+HOSPITAL
+Coastal Heart Institute
+85 Waterfront Drive
+Charleston, SC 29401
+(843) 555-2300
+Patient Name: Robert Davis 
+MRN: 4478102 
+DOB: 09/30/1974 
+Gender: Male 
+Age: 50
+MRN: 4478102 
+Accession: E25-4511 
+Date: 06/23/2025
+The patient is a 50-year-old male who presents with a complaint of intermittent heart palpitations over the past three months. He describes the episodes as a "fluttering" sensation in his chest that lasts for a few seconds and resolves spontaneously. Episodes occur 2-3 times per week with no clear trigger. He reports increased work-related stress recently and consumes 3-4 cups of coffee per day. He denies chest pain, syncope, or shortness of breath.
+PROCEDURES:
+12-Lead EKG: Performed in the office today. 
+24-Hour Holter Monitor: Patient was provided with the device and instructed on its use. He will return it to the clinic tomorrow. 
+Blood Pressure: 128/84 mmHg.
+IMPRESSION:
+Palpitations, etiology to be determined. Suspect benign premature atrial contractions, potentially exacerbated by caffeine intake and stress.
+Normal sinus rhythm with rare premature atrial contractions seen on in-office EKG.
+Awaiting results of 24-hour Holter monitor for further evaluation.
+Patient Name: Robert Davis MRN: 4478102 Age: 50
+Electronically Signed By: Dr. Patricia Williams, M.D. (Cardiology)
+Date: 06/23/2025 Time: 09:10

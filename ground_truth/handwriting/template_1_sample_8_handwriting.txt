@@ -1,0 +1,24 @@
+Accession #: PSG20250620-098
+SPRINGFIELD GENERAL HOSPITAL
+The Sleep Health Institute
+400 Restful Way, Suite 300
+Phoenix, AZ 85001
+Phone: (602) 555-7000
+Fax: (602) 555-7001
+Patient: Elizabeth Chen
+DOB: 08/15/1968
+MRN: 482601
+Gender: Female
+Referring Physician: Dr. Michael Rivera
+Study #: 731-004 Date of Study: 06/20/2025
+Polysomnography Report
+Procedure: Attended, full-night diagnostic polysomnography.
+Clinical Indication: Excessive daytime sleepiness, reported snoring, and witnessed apneas.
+This was a technically adequate overnight diagnostic polysomnogram. Total sleep time was 345 minutes with a sleep efficiency of 82%. Sleep architecture was abnormal due to significant sleep fragmentation. REM sleep was reduced, comprising only 10% of total sleep time.
+Frequent respiratory events were noted throughout the night. The overall Apnea-Hypopnea Index (AHI) was 42 events per hour, which is in the severe range. These events were predominantly obstructive apneas and hypopneas, and they were more severe during REM sleep. This was associated with significant oxygen desaturation, with a nadir SpO2 of 78%. The patient's baseline oxygen saturation was 95%. No significant periodic limb movements were noted.
+Impression: The findings are consistent with severe obstructive sleep apnea (OSA).
+A follow-up appointment is recommended to discuss treatment options, including positive airway pressure (PAP) therapy. A subsequent PAP titration study under polysomnography is indicated to determine the optimal pressure for treatment.
+Date of Interpretation: 06/20/2025 
+Interpreting Physician: Dr. Samuel Jones, MD, Dipl. ABsm
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

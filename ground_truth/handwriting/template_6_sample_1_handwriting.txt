@@ -1,0 +1,20 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Jane Doe
+Date of Birth: 08/15/1967
+MRN: 789012
+Ordering Physician: Dr. Sarah Jenkins
+Date of Service: 06/15/2025
+Accession #: S25-12345
+Date of Report: 06/20/2025
+Pathology Findings:
+Clinical Information: 58-year-old female with a non-painful, pigmented lesion on the left cheek. The lesion has been present for approximately one year, with a recent slight increase in size. Clinical concern for atypical nevus vs. seborrheic keratosis.
+Gross Description: Received in formalin, labeled with the patient's name and "left cheek," is a single shave biopsy of skin measuring 0.5 x 0.4 x 0.2 cm. The specimen is a tan-brown, slightly verrucous papule. The deep margin is inked black. The specimen is bisected and submitted entirely in one cassette.
+Microscopic Description: Microscopic examination reveals an exophytic proliferation of benign basaloid keratinocytes. The architecture shows prominent acanthosis, papillomatosis, and the formation of numerous keratin-filled invaginations and horn pseudocysts. The basaloid cells are uniform in appearance with small, regular nuclei and no significant mitotic activity or pleomorphism. Within the underlying dermis, there is a mild, patchy, perivascular infiltrate composed of lymphocytes and occasional eosinophils. The deep and peripheral margins are free of the lesion. No evidence of dysplasia or malignancy is identified.
+Diagnosis: Skin, left cheek, shave biopsy: Seborrheic keratosis, irritated.
+Comment: The histologic features are characteristic of an irritated seborrheic keratosis. The irritation corresponds to the mild dermal inflammation seen microscopically. Clinical correlation is recommended.
+Specimen: One piece of skin from the left cheek, measuring 0.5 x 0.4 x 0.2 cm.
+Pathologist: Dr. James Peterson
+Report status: Final
+Accession #: S25-12345
+Page 1 of 1

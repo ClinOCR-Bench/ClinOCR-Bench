@@ -1,0 +1,50 @@
+Riverside Community Hospital — Family Medicine
+Patient: Thomas A. Brennan DOB: 07/22/1965 Visit: 03/10/2026
+Meds
+Dosage
+How often
+Description
+Lisinopril
+20 mg
+Once daily (AM)
+ACE inhibitor; hypertension management
+Metformin HCl
+1000 mg
+Twice daily (with meals)
+Type 2 diabetes glycemic control
+Atorvastatin
+80 mg
+Once daily (PM)
+High-intensity statin; elevated LDL
+Albuterol HFA
+90 mcg/puff
+Every 4–6 hrs as needed
+Short-acting bronchodilator; asthma
+Montelukast
+10 mg
+Once daily (PM)
+Leukotriene antagonist; allergic asthma
+Omeprazole
+40 mg
+Once daily (before AM meal)
+PPI; GERD and gastric ulcer prevention
+Sertraline
+100 mg
+Once daily (AM)
+SSRI; major depressive disorder
+Daily Vitamins
+Dosage
+How often
+Description
+Vitamin B12
+1,000 mcg
+Once daily
+Neurological support; metformin-related depletion
+Vitamin D3
+2,000 IU
+Once daily (with meal)
+Bone density; immune modulation
+Magnesium Citrate
+300 mg
+Once daily (bedtime)
+Muscle cramping; sleep quality support

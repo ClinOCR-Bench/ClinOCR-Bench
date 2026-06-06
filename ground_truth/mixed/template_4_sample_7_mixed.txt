@@ -1,0 +1,30 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025 
+Attending Provider: Dr. Linda Harris, MD, FAAP 
+Location: Lakeside Pediatrics Clinic 
+Visit ID: ENC-PEDS-2025-112
+Date of Birth: 05/05/2019 Age: 6 Sex: Female 
+Address: 345 Elm Street, Riverdale, USA 23456
+Chief Complaints:
+Sore throat for two days 
+Fever up to 102.5°F 
+Headache 
+Decreased appetite
+Medical History Snapshot:
+Past Medical History: None 
+Surgical History: None 
+Immunizations: Up-to-date 
+Allergies: No Known Drug Allergies
+Visit Summary:
+Sophia is a 6-year-old female who presents with a two-day history of sore throat and fever. The mother reports the patient has also had a headache and poor appetite but denies cough or rhinorrhea. Examination was significant for tonsillar exudates and tender anterior cervical lymphadenopathy. A rapid in-office Group A Strep test was performed and resulted positive. Based on the findings, a diagnosis of Streptococcal Pharyngitis was made. A prescription for Amoxicillin was provided, and the importance of completing the full course of therapy was emphasized to the mother. Return to school guidelines and supportive care measures were also discussed.
+Exams:
+Vitals , General , HEENT , Neck , Lungs
+Findings:
+Vitals: Temp: 101.8°F, HR: 110, RR: 20, SpO2: 99% on room air.
+General: Alert and cooperative, appears uncomfortable but non-toxic.
+HEENT: Oropharynx is erythematous with 2+ tonsillar swelling, white exudates, and palatal petechiae. Tympanic membranes are clear.
+Neck: Tender anterior cervical lymphadenopathy present bilaterally.
+Lungs: Clear to auscultation bilaterally with no wheezes or crackles.
+Patient: Sophia Rodriguez MRN: 789-12-3456
+Page 1/1

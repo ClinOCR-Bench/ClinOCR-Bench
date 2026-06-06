@@ -1,0 +1,18 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Johnathan Smith Date of Birth: 04/12/1971 
+MRN: 345123
+Ordering Physician: Dr. David Chen 
+Procedure: Esophagogastroduodenoscopy (EGD) with biopsy
+Accession #: SP-25-45678
+Date of Procedure: 06/23/2025 Date of Report: 06/25/2025
+Clinical History: 54-year-old male with a history of chronic dyspepsia and epigastric pain. Biopsies taken to evaluate for gastritis and rule out Helicobacter pylori infection. 
+Diagnosis: Gastric Antrum, Biopsy: Mild chronic gastritis, positive for Helicobacter pylori. 
+Gross Description: Received in formalin, labeled "gastric antrum," are three tan mucosal fragments, each measuring up to 0.4 cm. The specimens are submitted entirely in one cassette. 
+Microscopic Description: Sections show fragments of gastric antral mucosa. The lamina propria contains a mild increase in chronic inflammatory cells, including lymphocytes and plasma cells. No significant neutrophilic activity, intestinal metaplasia, dysplasia, or malignancy is identified. A special stain for organisms highlights numerous spiral-shaped bacteria on the surface of the foveolar epithelium, morphologically consistent with Helicobacter pylori. 
+Comment: The histopathologic findings are diagnostic of a mild chronic gastritis associated with Helicobacter pylori.
+Specimen: Gastric antrum biopsy
+Pathologist: Dr. Emily Carter
+Report status: Final
+Accession #: SP-25-45678
+Page 1 of 1

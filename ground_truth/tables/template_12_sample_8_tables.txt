@@ -1,0 +1,75 @@
+Harold S. Kim
+DOB: 03/19/1970   
+Age: 56   
+Sex: M
+Acct#: 90173-H     Physician: Dr. Lucia M. Reyes, MD
+PRECISION DIAGNOSTIC LAB
+04/20/2026  07:30
+04/20/2026  08:20
+04/20/2026  10:50
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+1340 H
+1280 H
+03/15/2026
+nmol/L
+<1000
+LDL-P
+1340 H
+1280 H
+03/15/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+110 H
+104
+03/15/2026
+mg/dL
+<100
+HDL-C
+42
+44
+03/15/2026
+mg/dL
+>=40
+Triglycerides
+172
+168
+03/15/2026
+mg/dL
+<150
+Cholesterol, Total
+202 H
+198
+03/15/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+30.8
+31.2
+03/15/2026
+nmol/L
+>=30.5
+Small LDL-P
+588 H
+540
+03/15/2026
+nmol/L
+<527
+LDL Size
+20.9
+20.7
+03/15/2026
+nm
+>=20.5
+Comment
+Elevated LDL particle count. LDL-C also above goal. Consider addition of ezetimibe or PCSK9 inhibitor pending clinical assessment.

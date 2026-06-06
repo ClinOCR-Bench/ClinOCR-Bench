@@ -1,0 +1,58 @@
+04/01/2026
+Northshore General Hospital — Pathology & Lab Medicine
+Name: Robert T. Nakamura
+Acct#: 12501-C
+Date: 04/01/2026
+Age: 80
+Sex: M
+DOB: 11/05/1945
+Attend Dr: Dr. Kenji Yamamoto
+Location: Ward 4
+SPEC#: S-2026-04-01-088
+ENTER TIME: 08:00
+ORDER TIME: 07:45
+COLLECTED TIME: 08:00
+REPORT TIME: 11:30
+STATUS: FINAL
+REQ#: R-12501
+Test
+Result
+Flag
+Reference
+Site
+WBC
+13.2 x10³/µL
+H
+4.5 - 11.0
+W4
+REC
+3.60 x10⁶/µL
+L
+4.00 - 5.20
+W4
+HGB
+10.8 g/dL
+L
+13.5 - 17.5
+W4
+HCT
+32.5 %
+L
+41.0 - 53.0
+W4
+MCV
+90.2 fL
+80.0 - 100.0
+W4
+MCH
+30.0 pg
+27.0 - 33.0
+W4
+MCHC
+33.2 g/dL
+32.0 - 36.0
+W4
+PLT
+180 x10³/µL
+150 - 400
+W4

@@ -1,0 +1,42 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: Dorothy R. Ingram 
+DOB: 01/17/1938  
+MRN: 045-772-03
+April 20, 2026
+SECTION A: Medical History
+Yes
+No
+Alzheimer Disease, Early Stage (ICD-10: G30.0)
+X
+Hypertension (ICD-10: I10)
+X
+Type 2 Diabetes Mellitus (ICD-10: E11.9)
+X
+Osteoarthritis, Bilateral Knee (ICD-10: M17.11)
+X
+Urinary Incontinence (ICD-10: R32)
+X
+Depression (ICD-10: F32.9)
+X
+SECTION B: Current Medication
+Yes
+No
+Donepezil 10 mg — once daily (PM)
+X
+Memantine 10 mg — twice daily
+X
+Amlodipine 5 mg — once daily
+X
+Metformin 500 mg — twice daily
+X
+Oxybutynin 5 mg — once daily
+X
+Acetaminophen 500 mg — PRN (max 3 g/day)
+X
+Mirtazapine 15 mg — once daily (bedtime)
+X
+Dorothy Ingram 
+Patient signature
+Dorothy Ingram 
+Print name

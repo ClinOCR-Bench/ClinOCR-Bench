@@ -1,0 +1,42 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: Robert T. Nakamura  
+DOB: 11/05/1945  
+MRN: 012-501-88
+April 1, 2026
+SECTION A: Medical History
+Yes
+No
+Congestive Heart Failure (ICD-10: I50.9)
+X
+Atrial Fibrillation (ICD-10: I48.91)
+X
+COPD, Moderate (ICD-10: J44.1)
+X
+Type 2 Diabetes Mellitus (ICD-10: E11.9)
+X
+Benign Prostatic Hyperplasia (ICD-10: N40.0)
+X
+Depression (ICD-10: F32.9)
+X
+CKD Stage 2 (ICD-10: N18.2)
+X
+SECTION B: Current Medication
+Yes
+No
+Warfarin 5 mg — once daily (PM)
+X
+Digoxin 0.125 mg — once daily (AM)
+X
+Furosemide 80 mg — once daily (AM)
+X
+Spironolactone 25 mg — once daily
+X
+Tiotropium inhaler 18 mcg — once daily
+X
+Tamsulosin 0.4 mg — once daily
+X
+Robert Nakamura  
+Patient signature
+Robert Nakamura  
+Print name

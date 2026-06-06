@@ -1,0 +1,21 @@
+HOSPITAL
+FAX
+To: Dr. Isabella Rossi, Endocrinology
+Facility: Institute for Diabetes & Metabolism
+Fax: (555) 800-9000
+Phone: (555) 800-9001
+Re: Patient Referral: GOMEZ, Luis
+From: Sarah Jenkins, FNP-C
+Facility: Lakeside Family Health
+Fax: (555) 400-5000
+Phone: (555) 400-5001
+Date: June 25, 2025
+Time: 11:30 AM
+Pages: 1 (including cover)
+Notes: 
+Subject: Consult for Uncontrolled Type 2 Diabetes
+Dear Dr. Rossi,
+I am referring my patient, Luis Gomez (DOB: 10/16/1965), for assistance with managing his poorly controlled Type 2 Diabetes.
+His most recent HbA1c was 9.8%, despite adherence to maximal doses of Metformin and Glipizide. He is now experiencing symptoms of peripheral neuropathy. I am referring him to you for optimization of his regimen, likely requiring the addition of a newer agent or insulin therapy.
+Thank you for your consultation.
+The information contained in this facsimile message is legally privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this telecopy is strictly prohibited. If you have received this telecopy in error, please immediately notify us by telephone and return the original message to us at the address above via the U.S. Postal Service. Thank you.

@@ -1,0 +1,75 @@
+Natalie G. Cruz
+DOB: 06/25/1985   
+Age: 40   
+Sex: F
+Acct#: 81024-G     Physician: Dr. Alan T. Greenwood, MD
+PRECISION DIAGNOSTIC LAB
+04/05/2026  08:30
+04/05/2026  09:15
+04/05/2026  11:40
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+760
+780
+02/10/2026
+nmol/L
+<1000
+LDL-P
+760
+780
+02/10/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+80
+82
+02/10/2026
+mg/dL
+<100
+HDL-C
+68
+66
+02/10/2026
+mg/dL
+>=40
+Triglycerides
+99
+105
+02/10/2026
+mg/dL
+<150
+Cholesterol, Total
+165
+170
+02/10/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+33.8
+33.0
+02/10/2026
+nmol/L
+>=30.5
+Small LDL-P
+285
+300
+02/10/2026
+nmol/L
+<527
+LDL Size
+21.1
+21.0
+02/10/2026
+nm
+>=20.5
+Comment
+Favorable lipid particle size distribution. HDL-P adequate. Continue lifestyle measures. Routine follow-up in 12 months.

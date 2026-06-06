@@ -1,0 +1,33 @@
+Bayview Medical Center & Neurological Institute 5500 Oceanfront Ave, San Diego, CA 92109 
+Patient: David Chen MRN: 778899 DOB: 03/12/1978
+Chief Complaint
+Sudden onset of severe, "thunderclap" headache that started approximately two hours ago. Rates pain 10/10.
+Care Team
+Attending Physician: Dr. Sarah Jenkins, MD Pager: (619) 555-8012
+Pharmacies
+Costco Pharmacy 8125 Fletcher Pkwy, La Mesa, CA 91942 Phone: (619) 555-4567
+Vital sign
+T: 99.1°F 
+HR: 95 bpm 
+BP: 165/98 mmHg 
+RR: 18 breaths/min 
+O2 Sat: 98% on room air
+Allergies
+Ciprofloxacin - Tendonitis
+Medications
+Sumatriptan 50 mg tablet, as needed for migraines
+Vaccines
+Influenza - 10/20/2024
+Tdap - 06/15/2023
+COVID-19 Bivalent Booster - 11/05/2024
+Problems
+Severe Headache
+History of Migraine with Aura
+Hypertension
+Family History
+Mother: History of migraines.
+Maternal Aunt: Died from a ruptured cerebral aneurysm at age 55.
+Social History
+Tobacco: Denies
+Alcohol: 1-2 glasses of wine per week.
+Occupation: Software Engineer, reports high stress at work recently.

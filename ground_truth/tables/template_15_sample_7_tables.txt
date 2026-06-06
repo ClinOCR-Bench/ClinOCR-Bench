@@ -1,0 +1,54 @@
+01/30/2026
+Pinecrest Medical Center — Clinical Lab
+Name: Carlos M. Rivera
+Acct#: 38664-G
+Date: 01/30/2026
+Age: 35
+Sex: M
+DOB: 09/14/1990
+Attend Dr: Dr. Amara O. Diallo
+Location: Clinic A
+SPEC#: S-2026-01-30-033
+ENTER TIME: 09:00
+ORDER TIME: 08:45
+COLLECTED TIME: 09:00
+REPORT TIME: 11:45
+STATUS: FINAL
+REQ#: R-38664
+Test
+Result
+Flag
+Reference
+Site
+WBC
+6.4 x10³/µL
+4.5 - 11.0
+CA
+REC
+5.10 x10⁶/µL
+4.50 - 5.90
+CA
+HGB
+15.2 g/dL
+13.5 - 17.5
+CA
+HCT
+45.8 %
+41.0 - 53.0
+CA
+MCV
+89.8 fL
+80.0 - 100.0
+CA
+MCH
+29.8 pg
+27.0 - 33.0
+CA
+MCHC
+33.2 g/dL
+32.0 - 36.0
+CA
+PLT
+258 x10³/µL
+150 - 400
+CA

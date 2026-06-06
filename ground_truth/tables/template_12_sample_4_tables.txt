@@ -1,0 +1,75 @@
+Kenneth J. Harrington
+DOB: 09/30/1950   
+Age: 75   
+Sex: M
+Acct#: 57230-D     Physician: Dr. Nadia Patel, MD
+PRECISION DIAGNOSTIC LAB
+02/28/2026  07:45
+02/28/2026  08:30
+02/28/2026  10:15
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+1480 H
+1420 H
+12/10/2025
+nmol/L
+<1000
+LDL-P
+1480 H
+1420 H
+12/10/2025
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+118 H
+114
+12/10/2025
+mg/dL
+<100
+HDL-C
+45
+47
+12/10/2025
+mg/dL
+>=40
+Triglycerides
+180
+170
+12/10/2025
+mg/dL
+<150
+Cholesterol, Total
+215 H
+208
+12/10/2025
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+29.5
+30.2
+12/10/2025
+nmol/L
+>=30.5
+Small LDL-P
+640 H
+590
+12/10/2025
+nmol/L
+<527
+LDL Size
+20.6
+20.8
+12/10/2025
+nm
+>=20.5
+Comment
+Elevated LDL-P with increased small LDL fraction. Reassess after 8 weeks of rosuvastatin dose intensification.

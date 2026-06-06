@@ -1,0 +1,130 @@
+Patricia H. Simmons
+DOB: 07/22/1965   Age: 60   Sex: F
+Acct#: 88234-A     Physician: Dr. Elena Vasquez, MD
+PRECISION DIAGNOSTIC LAB
+04/22/2026  07:15
+04/22/2026  08:00
+04/22/2026  10:45
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+95
+98
+04/01/2026
+mg/dL
+70-99
+BUN
+14
+16
+04/01/2026
+mg/dL
+7-25
+Creatinine
+0.82
+0.79
+04/01/2026
+mg/dL
+0.57-1.00
+eGFR
+88
+91
+04/01/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+17
+20
+04/01/2026
+ratio
+6-22
+Sodium
+139
+140
+04/01/2026
+mEq/L
+136-145
+Potassium
+4.1
+3.9
+04/01/2026
+mEq/L
+3.5-5.1
+Chloride
+101
+103
+04/01/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+24
+25
+04/01/2026
+mEq/L
+21-32
+Calcium
+9.4
+9.5
+04/01/2026
+mg/dL
+8.6-10.3
+Protein, Total
+7.1
+7.2
+04/01/2026
+g/dL
+6.1-8.1
+Albumin
+4.3
+4.2
+04/01/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.8
+3.0
+04/01/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.5
+0.6
+04/01/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+72
+68
+04/01/2026
+U/L
+44-121
+AST (SGOT)
+22
+24
+04/01/2026
+U/L
+10-40
+ALT (SGOT)
+19
+21
+04/01/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+5.8
+6.0
+04/01/2026
+%
+<5.7

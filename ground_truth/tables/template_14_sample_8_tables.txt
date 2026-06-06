@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: David P. Kowalski
+Date of Birth: 02/07/1962
+Proposed Procedure:
+Right carotid endarterectomy
+Surgeon / Department:
+Dr. Bernard T. Huang, MD — Vascular Surgery
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+8.8
+Hgb:
+13.8
+Hct:
+41.5
+Na:
+138
+K:
+4.3
+Glucose:
+122
+PT:
+13.5
+INR:
+1.2
+PTT:
+31
+Cardiovascular & Pulmonary Risk Assessment
+[X] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[X] Hypertension
+[ ] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[X] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [ ] I  [X] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+NPO after midnight
+Weight (kg):
+96
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Continue aspirin; hold Metoprolol 12h pre-op per vascular team protocol. Foley catheter intra-op. ICU post-op monitoring for minimum 24h. Glucose monitoring every 2h post-op.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:   Thomas Okafor
+                                 Date:   02/05/2026

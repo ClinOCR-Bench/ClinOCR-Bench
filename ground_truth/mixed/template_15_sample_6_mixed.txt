@@ -1,0 +1,58 @@
+04/08/2026
+Summit Oncology Center — Hematology Lab
+Name: Helen F. Morrison
+Acct#: 31928-F
+Date: 04/08/2026
+Age: 70
+Sex: F
+DOB: 05/30/1955
+Attend Dr: Dr. Fiona K. Reyes
+Location: Oncology
+SPEC#: S-2026-04-08-074
+ENTER TIME: 08:30
+ORDER TIME: 08:15
+COLLECTED TIME: 08:30
+REPORT TIME: 11:15
+STATUS: FINAL
+REQ#: R-31928
+Test
+Result
+Flag
+Reference
+Site
+WBC
+5.2 x10³/µL
+4.5 - 11.0
+ONC
+REC
+3.75 x10⁶/µL
+L
+4.00 - 5.20
+ONC
+HGB
+11.0 g/dL
+L
+12.0 - 16.0
+ONC
+HCT
+33.2 %
+L
+36.0 - 46.0
+ONC
+MCV
+88.5 fL
+80.0 - 100.0
+ONC
+MCH
+29.3 pg
+27.0 - 33.0
+ONC
+MCHC
+33.1 g/dL
+32.0 - 36.0
+ONC
+PLT
+142 x10³/µL
+L
+150 - 400
+ONC

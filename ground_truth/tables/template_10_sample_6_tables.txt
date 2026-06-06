@@ -1,0 +1,40 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: Helen F. Morrison  
+DOB: 05/30/1955  
+MRN: 031-928-74
+April 8, 2026
+SECTION A: Medical History
+Yes
+No
+Breast Cancer Stage II ER+ (ICD-10: C50.912)
+X
+Osteoporosis (ICD-10: M81.0)
+X
+Hypertension (ICD-10: I10)
+X
+Hypothyroidism (ICD-10: E03.9)
+X
+Insomnia (ICD-10: G47.00)
+X
+SECTION B: Current Medication
+Yes
+No
+Tamoxifen 20 mg — once daily (AM)
+X
+Letrozole 2.5 mg — once daily
+X
+Alendronate 70 mg — once weekly
+X
+Lisinopril 10 mg — once daily
+X
+Levothyroxine 88 mcg — once daily (fasting)
+X
+Calcium Citrate 500 mg + Vit D — twice daily
+X
+Zoledronic acid 4 mg IV — every 12 weeks
+X
+Helen Morrison  
+Patient signature
+Helen Morrison  
+Print name

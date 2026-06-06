@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: Carlos M. Rivera
+Date of Birth: 09/14/1990
+Proposed Procedure:
+Septoplasty and inferior turbinate reduction
+Surgeon / Department:
+Dr. Marcus D. Osei, MD — ENT Surgery
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+6.4
+Hgb:
+15.1
+Hct:
+44.8
+Na:
+141
+K:
+4.2
+Glucose:
+88
+PT:
+12.0
+INR:
+1.0
+PTT:
+25
+Cardiovascular & Pulmonary Risk Assessment
+[ ] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[ ] Hypertension
+[X] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [ ] I  [X] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+NPO after midnight
+Weight (kg):
+78
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Pre-op nebulised salbutamol 2.5 mg 30 min before induction. Avoid aspirin and NSAIDs post-op for 2 weeks. Continue fluticasone inhaler through perioperative period.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:  Catherine Park
+                                 Date:   01/29/2026

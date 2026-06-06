@@ -1,0 +1,62 @@
+Harbor Oncology & Hematology Center 
+Patient: Sandra L. Meyers DOB: 05/17/1963 Visit: 04/22/2026
+Meds
+Dosage
+How often
+Description
+Tamoxifen
+20 mg
+Once daily (AM)
+SERM; ER-positive breast cancer adjuvant therapy
+Letrozole
+2.5 mg
+Once daily (AM)
+Aromatase inhibitor; post-menopausal HR+ cancer
+Dexamethasone
+4 mg
+Twice daily (chemo days)
+Corticosteroid; anti-emetic / anti-inflammatory
+Ondansetron
+8 mg
+Every 8 hrs (PRN nausea)
+5-HT3 antagonist; chemotherapy-induced nausea
+Filgrastim (G-CSF)
+300 mcg SC
+Per oncology protocol
+Granulocyte stimulant; neutropenia prophylaxis
+Enoxaparin
+40 mg SC
+Once daily
+LMWH; VTE prophylaxis in oncology patient
+Gabapentin
+300 mg
+Three times daily
+Neuropathic pain; chemotherapy-induced neuropathy
+Pantoprazole
+40 mg
+Once daily (before AM meal)
+PPI; steroid / NSAID GI protection
+Megestrol Acetate
+160 mg
+Once daily (AM)
+Progestin; cancer-related cachexia / appetite stimulation
+Zoledronic Acid
+4 mg IV
+Every 12 weeks (infusion)
+Bisphosphonate; bone metastasis prevention
+Daily Vitamins
+Dosage
+How often
+Description
+Vitamin D3
+2,000 IU
+Once daily (with meal)
+Oncologic support; deficiency correction
+Calcium Citrate
+500 mg
+Twice daily (with meal)
+Bone protection; aromatase inhibitor adjunct
+Ginger Extract
+550 mg
+Twice daily (PRN nausea)
+Adjunct anti-nausea; chemo support

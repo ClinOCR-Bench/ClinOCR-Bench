@@ -1,0 +1,29 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: William Johnson Date of Birth: 09/01/1956 
+MRN: 789321
+Ordering Physician: Dr. Robert Anderson 
+Procedure: Ultrasound-guided prostate needle biopsy
+Accession #: SU-25-11223
+Date of Procedure: 06/20/2025 Date of Report: 06/25/2025
+Clinical History: 69-year-old male with an elevated serum PSA of 9.2 ng/mL.
+Diagnosis:
+A) Prostate, Right Base, Biopsy: Benign prostatic tissue.
+B) Prostate, Right Mid, Biopsy: Adenocarcinoma, Gleason Score 3+4=7.
+C) Prostate, Right Apex, Biopsy: Adenocarcinoma, Gleason Score 3+4=7.
+D-F) Prostate, Left Base, Mid, Apex, Biopsy: Benign prostatic tissue with features of benign prostatic hyperplasia (BPH).
+Gross Description: The specimen consists of twelve parts (A-L), each containing one to three tan-white, threadlike tissue cores measuring from 1.0 to 1.5 cm in length. All tissue is submitted.
+Microscopic Description: Multiple cores of prostatic tissue are examined. The majority of cores (A, D, E, F, and H-L) show benign glands with features of nodular hyperplasia. Cores from the right mid-gland (B) and right apex (C) show infiltrating, small, crowded glands with enlarged nuclei and prominent nucleoli. The tumor is composed of well-formed glands (Gleason pattern 3) and poorly-formed/fused glands (Gleason pattern 4). Perineural invasion is identified in core C. No extraprostatic extension is seen.
+Tumor Summary:
+Histologic Type: Acinar Adenocarcinoma
+Gleason Score: 3 + 4 = 7
+WHO/ISUP Grade Group: 2
+Cores Involved: 2 of 12 (17%)
+Tumor Extent: Cancer involves 30% of core B and 50% of core C.
+Perineural Invasion: Present
+Extraprostatic Extension: Not identified
+Specimen: Prostate, needle core biopsies (12 cores)biopsy
+Pathologist: Dr. Olivia Martinez
+Report status: Final
+Accession #: SU-25-11223
+Page 1 of 1

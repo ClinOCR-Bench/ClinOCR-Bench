@@ -1,0 +1,30 @@
+Patient Name: Robert Brown MRN: 6543210
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Date of Birth: 03/12/1950 
+Age: 75 
+Gender: Male
+Patient Address: 567 Birch Lane, Aurora, CO 80011
+North Star Health System 
+450 Northland Blvd Aurora, CO 80011 
+Phone: (303) 555-1212 Fax: (303) 555-1213
+Accession Number: P25-01234 
+Date of Collection: 06/19/2025 
+Time of Collection: 02:45 PM 
+Specimen Type: Prostate, Needle Core Biopsy
+Ordering Physician: Dr. Sarah Jenkins, MD 
+Practice: Rocky Mountain Urology 
+Address: 890 Wellness Way, Suite 200, Aurora, CO 80012 
+Phone: (303) 555-8800
+Final Diagnosis:
+Prostate, left base: Adenocarcinoma, Gleason Score 4+3=7 (Grade Group 3) 
+Microscopic Description:
+Sections show prostatic acini replaced by infiltrative, poorly-formed cribriform glands (Gleason pattern 4) and individual discrete glands (Gleason pattern 3). The malignant glands are lined by cells with enlarged nuclei, prominent nucleoli, and scant cytoplasm. Perineural invasion is identified. The tumor involves approximately 60% of the core tissue examined. 
+Gross Description:
+Received in formalin labeled "prostate, left base" are four tan-white cylindrical tissue cores, ranging from 1.1 to 1.4 cm in length. All tissue submitted in one cassette.
+Comments:
+The findings are consistent with prostatic adenocarcinoma, Gleason Score 7. The presence of a dominant Gleason pattern 4 and perineural invasion are adverse prognostic factors. Correlation with serum PSA levels and clinical staging is recommended.
+Biomarkers:
+Immunohistochemical stains for high molecular weight cytokeratin (HMWCK) and p63 are negative in the malignant glands, supporting the diagnosis of adenocarcinoma. No further molecular biomarker testing indicated on this specimen.
+Page 1 of 1

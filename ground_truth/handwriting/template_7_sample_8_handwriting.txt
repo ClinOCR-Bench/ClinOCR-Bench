@@ -1,0 +1,23 @@
+HOSPITAL
+Midwest Gastroenterology Specialists
+200 First Street SW
+Minneapolis, MN 55905
+(507) 555-6789
+Patient Name: Laura Evans 
+MRN: 2154879 
+DOB: 10/02/1984 
+Gender: Female 
+Age: 40
+MRN: 2154879 
+Accession: G25-1123 
+Date: 06/23/2025
+The patient is a 40-year-old female with a 5-year history of gastroesophageal reflux disease (GERD). She is currently managed with omeprazole 20 mg daily, which she reports taking consistently. She notes good control of her typical symptoms of heartburn and regurgitation on this regimen. She presents today for a routine follow-up. She denies any dysphagia, odynophagia, or unintentional weight loss.
+PROCEDURES:
+Physical Examination: Abdomen is soft, non-tender, and non-distended with normal active bowel sounds. No hepatosplenomegaly. 
+Plan: Given the duration of her symptoms, the patient will be scheduled for an esophagogastroduodenoscopy (EGD) for further evaluation and screening.
+IMPRESSION:
+Gastroesophageal reflux disease (GERD), well-controlled on proton pump inhibitor therapy.
+Plan to proceed with screening EGD.
+Patient Name: Laura Evans MRN: 2154879 Age: 40
+Electronically Signed By: Dr. Mark Robinson, M.D. (Gastroenterology)
+Date: 06/23/2025 Time: 09:13

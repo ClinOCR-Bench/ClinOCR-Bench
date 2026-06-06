@@ -1,0 +1,38 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: Carlos M. Rivera  
+DOB: 09/14/1990  
+MRN: 038-664-19
+January 30, 2026
+SECTION A: Medical History
+Yes
+No
+Asthma, Moderate Persistent (ICD-10: J45.40)
+X
+Allergic Rhinitis (ICD-10: J30.9)
+X
+ADHD, Combined Type (ICD-10: F90.2)
+X
+Migraine without Aura (ICD-10: G43.009)
+X
+Eczema / Atopic Dermatitis (ICD-10: L20.9)
+X
+SECTION B: Current Medication
+Yes
+No
+Fluticasone/Salmeterol 250/50 mcg — twice daily
+X
+Albuterol HFA 90 mcg — PRN every 4-6 hrs
+X
+Montelukast 10 mg — once daily (PM)
+X
+Cetirizine 10 mg — once daily (PM)
+X
+Amphetamine salts XR 20 mg — once daily (AM)
+X
+Topiramate 50 mg — once daily (PM)
+X
+Carlos Rivera  
+Patient signature
+Carlos Rivera  
+Print name

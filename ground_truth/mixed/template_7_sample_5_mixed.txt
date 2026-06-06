@@ -1,0 +1,22 @@
+HOSPITAL
+Children's Health Pavilion
+300 Longwood Avenue
+Boston, MA 02115
+(617) 555-5437
+Patient Name: Olivia Chen 
+MRN: 6509823 
+DOB: 04/10/2023 
+Gender: Female 
+Age: 2
+MRN: 6509823 
+Accession: C89912-25 
+Date: 06/23/2025
+The patient is a 2-year-old female brought to the clinic by her mother with a two-day history of fussiness, irritability, and low-grade fever. The mother reports the child has been pulling at her left ear. The patient has also had a decreased appetite. She has had a concurrent mild clear rhinorrhea. No known sick contacts. Vaccinations are up to date.
+PROCEDURES:
+Physical Examination: Temperature 101.4 °F (tympanic). Otoscopy: Right tympanic membrane is pearly gray with a normal light reflex. The left tympanic membrane is erythematous, bulging, with loss of landmarks. There is purulent fluid noted behind the membrane. Respiratory Exam: Lungs are clear to auscultation bilaterally.
+IMPRESSION:
+Acute otitis media, left ear.
+Fever.
+Patient Name: Olivia Chen MRN: 6509823 Age: 2
+Electronically Signed By: Dr. Sarah Miller, M.D. (Pediatrics)
+Date: 06/23/2025 Time: 09:08

@@ -1,0 +1,59 @@
+02/14/2026
+Harbor View Hospital — Clinical Laboratory
+Name: Sandra K. Okafor
+Acct#: 19883-D
+Date: 02/14/2026
+Age: 45
+Sex: F
+DOB: 08/19/1980
+Attend Dr: Dr. Diana Mensah
+Location: Clinic C
+SPEC#: S-2026-02-14-019
+ENTER TIME: 09:00
+ORDER TIME: 08:45
+COLLECTED TIME: 09:00
+REPORT TIME: 12:00
+STATUS: FINAL
+REQ#: R-19883
+Test
+Result
+Flag
+Reference
+Site
+WBC
+5.8 x10³/µL
+4.5 - 11.0
+CC
+REC
+3.90 x10⁶/µL
+L
+4.00 - 5.20
+CC
+HGB
+10.2 g/dL
+L
+12.0 - 16.0
+CC
+HCT
+30.8 %
+L
+36.0 - 46.0
+CC
+MCV
+78.4 fL
+L
+80.0 - 100.0
+CC
+MCH
+26.2 pg
+L
+27.0 - 33.0
+CC
+MCHC
+33.1 g/dL
+32.0 - 36.0
+CC
+PLT
+340 x10³/µL
+150 - 400
+CC

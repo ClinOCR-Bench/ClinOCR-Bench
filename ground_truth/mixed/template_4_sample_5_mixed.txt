@@ -1,0 +1,28 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Attending Provider: Dr. Angela Patel, MD
+Location: University Dermatology Clinic
+Visit ID: ENC-GHI789-JKL
+Date of Birth: 04/12/1997 Age: 28 Sex: Female
+Address: 101 University Ave, College Town, USA 98765
+Chief Complaints:
+A rash spreading across the back and arms for one week.
+Mild itchiness associated with the rash.
+Concern regarding the nature and spread of the rash.
+Medical History Snapshot:
+Active Problems: Gastroesophageal Reflux Disease (GERD)
+Surgical History: Wisdom teeth extraction (2015)
+Family History: Mother with a history of eczema.
+Medications: Combined oral contraceptive pill (daily), Famotidine 20mg (as needed for heartburn).
+Allergies: No Known Drug Allergies.
+Visit Summary:
+Jessica Chen, a 28-year-old female, presents for evaluation of a rash that appeared one week ago. It began as a single patch on her flank and has since spread to her back and upper arms. The rash is mildly pruritic, but she denies any pain, fever, or other associated symptoms. She has not changed any detergents, soaps, or lotions recently. The physical examination is notable for a "herald patch" on her right flank and multiple smaller, oval, pink papules with fine scale distributed along cleavage lines on her back, classic for a "Christmas tree" pattern. The clinical presentation is highly consistent with Pityriasis Rosea. The patient was reassured about the benign, self-limiting nature of the condition. She was counseled that it is not contagious and typically resolves spontaneously in 6-8 weeks. Management for symptomatic relief of itching with gentle moisturizers and over-the-counter antihistamines was discussed. She was advised to return if the condition worsens or fails to resolve as expected.
+Exams:
+Vitals, Integumentary/Skin, HEENT (Head, Eyes, Ears, Nose, Throat)
+Findings:
+Vitals: Temperature is 98.6°F. Blood pressure, pulse, and respirations are within normal limits.
+Integumentary/Skin: On the back and proximal arms, there are numerous, scattered, 0.5-1.5 cm oval-shaped pink papules and plaques with a fine, superficial scale. The long axis of the lesions is oriented in a "Christmas tree" distribution. A single, 3 cm ovoid plaque with a collarette of scale is present on the right flank. Palms and soles are clear of any lesions.
+HEENT: The oropharynx is clear and without lesions. Sclerae are anicteric.
+Patient: Jessica Chen MRN: 246-80-1357
+Page 1/1

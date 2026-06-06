@@ -1,0 +1,75 @@
+Olivia T. Brennan
+DOB: 04/12/1995   
+Age: 31   
+Sex: F
+Acct#: 62441-E     Physician: Dr. Marcus J. Cohen, MD
+PRECISION DIAGNOSTIC LAB
+04/18/2026  09:00
+04/18/2026  09:50
+04/18/2026  11:00
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+620
+640
+02/20/2026
+nmol/L
+<1000
+LDL-P
+620
+640
+02/20/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+72
+76
+02/20/2026
+mg/dL
+<100
+HDL-C
+72
+70
+02/20/2026
+mg/dL
+>=40
+Triglycerides
+88
+92
+02/20/2026
+mg/dL
+<150
+Cholesterol, Total
+158
+164
+02/20/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+36.4
+35.8
+02/20/2026
+nmol/L
+>=30.5
+Small LDL-P
+218
+240
+02/20/2026
+nmol/L
+<527
+LDL Size
+21.5
+21.2
+02/20/2026
+nm
+>=20.5
+Comment
+All NMR LipoProfile values within normal reference intervals. Favorable particle size distribution. No pharmacologic intervention required at this time.

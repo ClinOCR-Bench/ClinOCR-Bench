@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+Carlos M. Rivera
+Date of Birth (MM/DD/YYYY):
+09/14/1990
+Patient ID / MRN:
+MRN-038664
+Gender: [X] M  [ ] F  [ ] Other
+Phone Number: (832) 555-0558
+Today's Date: 01/30/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+118/72
+68
+15
+98.6
+99
+172
+70
+Medical History
+[ ] Hypertension
+[ ] Diabetes (Type I)
+[ ] Diabetes (Type II)
+[X] Asthma
+[ ] COPD
+[ ] Heart Disease
+[ ] High Cholesterol
+[ ] Thyroid Disorder
+[ ] Arthritis
+[ ] Cancer
+[X] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Fluticasone/Salmeterol
+250/50 mcg
+Twice daily
+Albuterol HFA
+90 mcg/puff
+PRN every 4-6 hrs
+Amphetamine salts XR
+20 mg
+Once daily (AM)
+Montelukast
+10 mg
+Once daily (PM)
+Allergies
+Allergen
+Reaction Type
+Amoxicillin
+Hives
+Ibuprofen
+GI upset
+Reason for Visit
+New patient intake for asthma management and ADHD evaluation. Patient requests referral for cognitive behavioral therapy for anxiety.
+Provider Signature:   Samuel Reyes
+Date:   01/30/2026

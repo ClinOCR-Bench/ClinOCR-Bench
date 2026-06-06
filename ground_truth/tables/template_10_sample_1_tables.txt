@@ -1,0 +1,40 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: James A. Whitfield  
+DOB: 06/12/1958  
+MRN: 004-738-21
+April 22, 2026
+SECTION A: Medical History
+Yes
+No
+Essential Hypertension (ICD-10: I10)
+X
+Type 2 Diabetes Mellitus (ICD-10: E11.9)
+X
+Hyperlipidemia (ICD-10: E78.5)
+X
+Chronic Kidney Disease Stage 3 (ICD-10: N18.3)
+X
+Peripheral Artery Disease (ICD-10: I73.9)
+X
+Obstructive Sleep Apnea (ICD-10: G47.33)
+X
+SECTION B: Current Medication
+Yes
+No
+Lisinopril 20 mg — once daily
+X
+Metformin HCl 1000 mg — twice daily with meals
+X
+Atorvastatin 80 mg — once daily (PM)
+X
+Furosemide 40 mg — once daily (AM)
+X
+Aspirin 81 mg EC — once daily
+X
+Carvedilol 12.5 mg — twice daily with meals
+X
+James Whitfield  
+Patient signature
+James Whitfield  
+Print name

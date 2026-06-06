@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: Helen F. Morrison
+Date of Birth: 05/30/1955
+Proposed Procedure:
+Left sentinel lymph node biopsy
+Surgeon / Department:
+Dr. Fiona K. Reyes, MD — Surgical Oncology
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+5.8
+Hgb:
+12.4
+Hct:
+37.2
+Na:
+140
+K:
+3.9
+Glucose:
+98
+PT:
+12.5
+INR:
+1.0
+PTT:
+27
+Cardiovascular & Pulmonary Risk Assessment
+[ ] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[X] Hypertension
+[ ] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [X] I  [ ] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+NPO after midnight
+Weight (kg):
+68
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Hold Letrozole on day of surgery. Levothyroxine with small sip of water AM. Lymphoscintigraphy scheduled pre-op at 07:00.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:   Patrick Noel
+                                 Date: 04/07/2026

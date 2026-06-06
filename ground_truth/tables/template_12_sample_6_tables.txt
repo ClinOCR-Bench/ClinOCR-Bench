@@ -1,0 +1,75 @@
+George L. Washington
+DOB: 12/08/1962   
+Age: 63   
+Sex: M
+Acct#: 73388-F     Physician: Dr. Priya N. Sharma, MD
+PRECISION DIAGNOSTIC LAB
+03/28/2026  07:00
+03/28/2026  07:55
+03/28/2026  10:00
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+1100 H
+1080 H
+01/05/2026
+nmol/L
+<1000
+LDL-P
+1100 H
+1080 H
+01/05/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+98
+96
+01/05/2026
+mg/dL
+<100
+HDL-C
+44
+46
+01/05/2026
+mg/dL
+>=40
+Triglycerides
+165
+158
+01/05/2026
+mg/dL
+<150
+Cholesterol, Total
+188
+192
+01/05/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+31.0
+30.5
+01/05/2026
+nmol/L
+>=30.5
+Small LDL-P
+498
+480
+01/05/2026
+nmol/L
+<527
+LDL Size
+20.7
+20.6
+01/05/2026
+nm
+>=20.5
+Comment
+LDL-P mildly elevated above optimal. Continue current statin regimen. Recheck in 6 months with fasting lipid panel.

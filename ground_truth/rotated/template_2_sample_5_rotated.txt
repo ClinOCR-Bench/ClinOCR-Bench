@@ -1,0 +1,32 @@
+Patient Name: Maria Garcia MRN: 4567890
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Date of Birth: 09/10/1985 
+Age: 39 
+Gender: Female 
+Patient Address: 123 Forest Drive, Pine Ridge, USA 67890
+Mountain View Medical Center 789 Summit Lane Pine Ridge, USA 67890 
+Phone: (555) 345-6789 
+Fax: (555) 345-6790
+Accession Number: P2025-78901 
+Date of Collection: 06/21/2025 
+Time of Collection: 11:00 AM 
+Specimen Type: Skin Shave Biopsy, Left Arm
+Ordering Physician: Dr. David Lee, MD 
+Practice: Dermatology Associates of Pine Ridge
+Address: 234 Skin Care Way, Pine Ridge, USA 67890 
+Phone: (555) 765-4321
+Final Diagnosis:
+Skin, left arm: Malignant Melanoma, Nodular Type
+Microscopic Description:
+The sections show a nodular proliferation of atypical melanocytes extending from the epidermis into the deep dermis. The melanocytes are large, with irregular nuclear contours, prominent eosinophilic nucleoli, and abundant eosinophilic cytoplasm. Numerous mitotic figures, including atypical forms, are identified. The Breslow thickness is measured at 2.5 mm. Ulceration is present. There is no evidence of lymphovascular or perineural invasion.
+Gross Description:
+Received in formalin, labeled with the patient's name and "left arm shave biopsy," is a single, circular piece of skin measuring 1.0 cm in diameter and 0.4 cm in thickness. The epidermis is focally ulcerated and contains a darkly pigmented, raised lesion measuring 0.7 cm in diameter.
+Comments:
+The features are those of a nodular malignant melanoma. The deep and peripheral margins are involved by invasive melanoma. Wide local excision with sentinel lymph node biopsy is recommended based on the Breslow depth and presence of ulceration. Clinical correlation is essential.
+Biomarkers:
+BRAF V600E Mutation Analysis:
+Result: Positive
+Interpretation: A BRAF V600E mutation was detected in the tumor cells. This finding has therapeutic implications, as patients with BRAF-mutated melanoma may benefit from targeted therapy.
+Page 1 of 1

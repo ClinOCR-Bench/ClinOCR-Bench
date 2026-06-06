@@ -1,0 +1,39 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: David P. Kowalski  DOB: 02/07/1962  
+MRN: 023-417-36
+March 25, 2026
+SECTION A: Medical History
+Yes
+No
+Post-Myocardial Infarction (ICD-10: I25.2)
+X
+Hypertension (ICD-10: I10)
+X
+Hyperlipidemia (ICD-10: E78.5)
+X
+Type 2 Diabetes Mellitus (ICD-10: E11.9)
+X
+Generalized Anxiety Disorder (ICD-10: F41.1)
+X
+Gout (ICD-10: M10.9)
+X
+CKD Stage 2 (ICD-10: N18.2)
+X
+SECTION B: Current Medication
+Yes
+No
+Aspirin 81 mg — once daily
+X
+Metoprolol Succinate 50 mg — once daily
+X
+Rosuvastatin 20 mg — once daily (PM)
+X
+Ramipril 10 mg — once daily (AM)
+X
+Empagliflozin 10 mg — once daily
+X
+David Kowalski  
+Patient signature
+David Kowalski  
+Print name

@@ -1,0 +1,37 @@
+Mercy General Hospital 1500 Mercy Lane, Austin, TX 78701 Phone: (512) 555-3400
+Patient: Eleanor Vance MRN: 334561 DOB: 09/01/1945
+Chief Complaint
+Evaluation after a fall at home this morning. Complains of left hip pain.
+Care Team
+Attending Physician: Dr. Samuel Peterson, MD Pager: (512) 555-3422
+Pharmacies
+Walgreens Mail Order Phone: (800) 555-1212
+Vital sign
+T: 98.6°F 
+HR: 82 bpm 
+BP: 150/85 mmHg 
+RR: 16 breaths/min 
+O2 Sat: 97% on room air
+Allergies
+Sulfa drugs (Sulfamethoxazole) - Anaphylaxis
+Medications
+Amlodipine 5 mg daily
+Atorvastatin 20 mg daily
+Alendronate 70 mg weekly
+Calcium + Vitamin D 600mg/400IU tablet twice daily
+Vaccines
+High-Dose Influenza - 10/02/2024 
+Shingrix (2 doses) - Completed 05/18/2023 
+Pneumovax 23 - 09/10/2020
+Problems
+Osteoporosis
+Hypertension
+Osteoarthritis
+Gait Instability
+Family History
+Mother: Died at age 88 from complications of a hip fracture.
+Sister: History of osteoporosis.
+Social History
+Tobacco: Quit 40 years ago.
+Alcohol: Rare.
+Living Situation: Widowed, lives alone in a single-story house. Uses a cane for ambulation.

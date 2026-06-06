@@ -1,0 +1,20 @@
+HOSPITAL
+FAX
+To: Dr. Evelyn Reed, Cardiology Department
+Facility: Mercy General Hospital
+Fax: (555) 890-1234
+Phone: (555) 890-1235
+Re: Cardiology Consult for Patient: WILLIAMS, Sarah
+From: Dr. Alan Chen, MD, Internal Medicine 
+Facility: Crestwood Primary Care 
+Fax: (555) 456-7890 
+Phone: (555) 456-7891
+Date: June 25, 2025
+Time: 11:15 AM
+Pages: 1 (including cover)
+Notes: 
+Subject: Urgent Cardiology Consultation Request
+Dear Dr. Reed,
+I am referring my patient, Sarah Williams (DOB: 05/22/1960), for an urgent cardiology evaluation.
+History of Present Illness: Ms. Williams is a 65-year-old female with a history of hypertension and hyperlipidemia who presented to my clinic today with a two-day history of intermittent chest tightness and shortness of breath upon exertion. She describes the tightness as a "pressure" in the center of her chest, which subsides with rest. She denies any radiation of pain, diaphoresis, or nausea.
+The information contained in this facsimile message is legally privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this telecopy is strictly prohibited. If you have received this telecopy in error, please immediately notify us by telephone and return the original message to us at the address above via the U.S. Postal Service. Thank you.

@@ -1,0 +1,75 @@
+Patricia H. Simmons
+DOB: 07/22/1965   
+Age: 60  
+Sex: F
+Acct#: 88234-A     Physician: Dr. Elena Vasquez, MD
+PRECISION DIAGNOSTIC LAB
+04/22/2026  07:15
+04/22/2026  08:00
+04/22/2026  10:45
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+1248 H
+1310
+04/01/2026
+nmol/L
+<1000
+LDL-P
+1248 H
+1310
+04/01/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+112 H
+118
+04/01/2026
+mg/dL
+<100
+HDL-C
+52
+49
+04/01/2026
+mg/dL
+>=40
+Triglycerides
+148
+162
+04/01/2026
+mg/dL
+<150
+Cholesterol, Total
+198
+210
+04/01/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+32.1
+30.8
+04/01/2026
+nmol/L
+>=30.5
+Small LDL-P
+510
+542
+04/01/2026
+nmol/L
+<527
+LDL Size
+20.8
+20.5
+04/01/2026
+nm
+>=20.5
+Comment
+Small LDL particle count borderline elevated. Recommend dietary modification and repeat in 3 months.

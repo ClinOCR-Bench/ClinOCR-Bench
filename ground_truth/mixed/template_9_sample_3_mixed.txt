@@ -1,0 +1,54 @@
+Northshore General Hospital — Cardiology 
+Patient: Harold J. Whitmore DOB: 04/19/1951 Visit: 04/01/2026
+Meds
+Dosage
+How often
+Description
+Warfarin
+5 mg
+Once daily (PM)
+Anticoagulant; atrial fibrillation / DVT
+Digoxin
+0.125 mg
+Once daily (AM)
+Cardiac glycoside; heart failure / AFib rate ctrl
+Furosemide
+80 mg
+Once daily (AM)
+Loop diuretic; CHF-related fluid overload
+Spironolactone
+25 mg
+Once daily (AM)
+Potassium-sparing diuretic; heart failure
+Carvedilol
+25 mg
+Twice daily (with meals)
+Beta-blocker; systolic heart failure
+Atorvastatin
+40 mg
+Once daily (PM)
+Statin; secondary CV prevention
+Aspirin (EC)
+81 mg
+Once daily (with food)
+Antiplatelet; post-MI prophylaxis
+Potassium Chloride
+20 mEq
+Once daily (with meal)
+Electrolyte replacement; diuretic-induced hypokalemia
+Ramipril
+10 mg
+Once daily (AM)
+ACE inhibitor; post-MI cardioprotection
+Daily Vitamins
+Dosage
+How often
+Description
+Coenzyme Q10
+200 mg
+Once daily (with meal)
+Mitochondrial function; statin-related myopathy
+Vitamin K2 (MK-7)
+90 mcg
+Once daily (with meal)
+Vascular calcium regulation — note warfarin interaction; MD-monitored

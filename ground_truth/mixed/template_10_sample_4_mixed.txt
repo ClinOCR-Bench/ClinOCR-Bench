@@ -1,0 +1,40 @@
+LAKEWOOD HOSPITAL
+831676002937
+Patient: Sandra K. Okafor  
+DOB: 08/19/1980  
+MRN: 019-883-12
+February 14, 2026
+SECTION A: Medical History
+Yes
+No
+Systemic Lupus Erythematosus (ICD-10: M32.9)
+X
+Hypertension (ICD-10: I10)
+X
+Iron Deficiency Anemia (ICD-10: D50.9)
+X
+Raynaud Syndrome (ICD-10: I73.00)
+X
+Lupus Nephritis Class III (ICD-10: N08)
+X
+SECTION B: Current Medication
+Yes
+No
+Hydroxychloroquine 400 mg — once daily
+X
+Prednisone 5 mg — once daily (AM)
+X
+Amlodipine 5 mg — once daily
+X
+Ferrous Sulfate 325 mg — every other day
+X
+Belimumab 200 mg SC — once weekly
+X
+Mycophenolate mofetil 1000 mg — twice daily
+X
+Losartan 50 mg — once daily
+X
+Sandra Okafor  
+Patient signature
+Sandra Okafor  
+Print name

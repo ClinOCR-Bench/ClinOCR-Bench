@@ -1,0 +1,30 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Attending Provider: Dr. Katherine White, MD, FACOG
+Location: Women's Health Associates
+Visit ID: ENC-OB-2025-445
+Date of Birth: 09/10/1992 Age: 32 Sex: Female
+Address: 678 Gardenia Court, Meadowbrook, USA 78901
+Chief Complaints:
+Routine 28-week prenatal visit 
+Review of lab results 
+Mild lower back pain
+Medical History Snapshot:
+Obstetric History: Gravida 1, Para 0. Estimated Due Date: 09/27/2025. Blood Type: O-negative.
+Past Medical History: None.
+Surgical History: None.
+Medications: Prenatal vitamin, 1 tablet by mouth daily.
+Allergies: No Known Drug Allergies.
+Visit Summary:
+Emily is a 32-year-old G1P0 female at 28 weeks and 2 days gestation who presents for a routine prenatal visit. She reports feeling fetal movement daily and denies contractions, vaginal bleeding, or leakage of fluid. Her 1-hour glucose challenge test result from last week was normal. Today in the office, she received the Tdap vaccine and an injection of RH immunoglobulin. Fundal height is appropriate for dates, and fetal heart tones were strong. We discussed third-trimester precautions and kick counts. She will return in two weeks for her next follow-up.
+Exams:
+Vitals , Fetal Heart Tones , Fundal Height
+Findings:
+Vitals: BP 118/72 mmHg, Weight 155 lbs.
+Fetal Heart Tones: 145 bpm via Doppler.
+Fundal Height: 28 cm.
+Urine Dipstick: Negative for glucose and protein.
+Extremities: No edema.
+Patient: Emily Johnson MRN: 555-44-3322
+Page 1/1

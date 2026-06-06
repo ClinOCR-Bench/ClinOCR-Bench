@@ -1,0 +1,28 @@
+Accession #: C123456-25
+SPRINGFIELD GENERAL HOSPITAL
+Lakeside General Hospital
+100 Hospital Way
+River City, USA 67890
+Metro Radiology Associates
+Phone: (555) 234-5678
+Fax: (555) 234-5679
+Patient: David Lee
+DOB: 10/25/1958
+MRN: 987654
+Gender: Male
+Referring Physician: Dr. Susan Cho
+Visit #: 789-123 Date of Visit: 06/20/2025
+CT Head Without Contrast
+Procedure: Computed tomography of the head without intravenous contrast.
+Clinical Indication: Sudden onset of severe headache, rule out intracranial hemorrhage.
+Brain Parenchyma: There is no evidence of acute territorial infarct, mass effect, or midline shift. No abnormal densities are seen to suggest acute intracranial hemorrhage. The gray-white matter differentiation is preserved. Basal ganglia and thalami appear unremarkable.
+Ventricular System and Cisterns: The ventricular system is normal in size and configuration for the patient's age. The basal cisterns are clear.
+Osseous and Soft Tissues: The calvarium is intact with no evidence of acute fracture. The paranasal sinuses and mastoid air cells are clear. The visualized portions of the orbits and soft tissues of the scalp are unremarkable.
+Impression:
+Negative for acute intracranial hemorrhage. No CT evidence of other acute intracranial abnormality.
+Scheduled appointments:
+Follow-up scheduled with the Neurology Clinic for further evaluation of headache. Appointment with Dr. Miller on 06/27/2025 at 9:00 AM.
+Date of Dictation: 06/20/2025
+Technician: Jennifer Davis, RT(R)(CT)
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

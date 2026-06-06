@@ -1,0 +1,24 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Sarah Chen 
+Date of Birth: 03/15/1997 
+MRN: 667890
+Ordering Physician: Dr. Elizabeth Ross 
+Procedure: Left cervical lymph node excisional biopsy
+Accession #: SH-25-55443
+Date of Procedure: 06/20/2025 Date of Report: 06/25/2025
+Clinical History: 28-year-old female with a one-month history of a painless, enlarging left-sided neck mass. Associated with night sweats. Concern for lymphoma. 
+Diagnosis: Lymph Node, Left Cervical, Excision: Classical Hodgkin Lymphoma, Nodular Sclerosis Type. 
+Gross Description: Received fresh, labeled 'left neck mass,' is an encapsulated lymph node measuring 2.8 x 2.1 x 1.5 cm. The cut surface is tan-white and firm, with a vaguely nodular appearance. Microscopic Description: Sections of the lymph node show complete effacement of the normal architecture by a nodular infiltrate. The nodules are defined by broad bands of collagenous fibrosis. Within the nodules, there is a mixed inflammatory background composed of small lymphocytes, eosinophils, and histiocytes. Scattered throughout this background are large, atypical cells, including classic binucleated Reed-Sternberg cells and their mononuclear variants (Hodgkin cells). These cells have large, vesicular nuclei, prominent eosinophilic nucleoli, and abundant cytoplasm. Immunohistochemistry: The large, atypical cells show the following immunophenotype: 
+CD30: Positive 
+CD15: Positive 
+PAX5: Positive (dim) 
+CD45: Negative 
+CD20: Negative 
+CD3: Highlights the background T-cell population. 
+Comment: The morphologic findings in conjunction with the immunophenotype (CD30+, CD15+, PAX5+, CD45-) are diagnostic of Classical Hodgkin Lymphoma, Nodular Sclerosis subtype. Clinical correlation and appropriate oncologic management are recommended.
+Specimen: Left cervical lymph node
+Pathologist: Dr. Benjamin Ayers
+Report status: Final
+Accession #: SH-25-55443
+Page 1 of 1

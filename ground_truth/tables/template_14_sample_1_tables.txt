@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: James A. Whitfield
+Date of Birth: 06/12/1958
+Proposed Procedure:
+Laparoscopic cholecystectomy
+Surgeon / Department:
+Dr. Raymond Choi, MD — General Surgery
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+8.2
+Hgb:
+13.4
+Hct:
+40.1
+Na:
+138
+K:
+4.1
+Glucose:
+114
+PT:
+12.8
+INR:
+1.1
+PTT:
+28
+Cardiovascular & Pulmonary Risk Assessment
+[ ] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[X] Hypertension
+[ ] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [ ] I  [X] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+Clear liquids until 04:00; solids NPO after midnight
+Weight (kg):
+92
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Hold Metformin on day of surgery. Continue Lisinopril with sip of water. Plan: general anesthesia.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:   Sandra Holloway
+                                 Date: 04/22/2026

@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: Sandra K. Okafor
+Date of Birth: 08/19/1980
+Proposed Procedure:
+Laparoscopic appendectomy (urgent)
+Surgeon / Department:
+Dr. Alan P. Wright, MD — General Surgery
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+16.8 H
+Hgb:
+12.0
+Hct:
+36.2
+Na:
+136
+K:
+3.8
+Glucose:
+102
+PT:
+12.2
+INR:
+1.0
+PTT:
+26
+Cardiovascular & Pulmonary Risk Assessment
+[ ] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[ ] Hypertension
+[ ] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [X] I  [ ] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+Urgent case — last oral intake 5 hours prior (liquids only)
+Weight (kg):
+64
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Urgent case. Administer IV methylprednisolone 40 mg intra-op for adrenal suppression coverage. Hold Prednisone post-op; resume per surgical team.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:  Yolanda Kim
+                                 Date:   04/01/2026

@@ -1,0 +1,29 @@
+Accession #: D987654-25
+SPRINGFIELD GENERAL HOSPITAL
+Midwest Heart & Vascular Institute
+300 Cardiovascular Circle
+Lincolnwood, IL 60712
+Phone: (312) 555-8000
+Fax: (312) 555-8001
+Patient: Robert Chen
+DOB: 03/12/1948
+MRN: 135792
+Gender: Male
+Referring Physician: Dr. Angela Patel
+Visit #: 246-810 Date of Visit: 06/20/2025
+Transthoracic Echocardiogram Report
+Procedure: Complete transthoracic echocardiogram (TTE) with 2D, M-mode, and Doppler interrogation.
+Clinical Indication: Hypertension, evaluation of left ventricular function and diastolic dysfunction.
+Left Ventricle: The left ventricle is normal in size. There is concentric left ventricular hypertrophy. The estimated left ventricular ejection fraction (LVEF) is 50-55%. There is Grade II diastolic dysfunction. No regional wall motion abnormalities are noted.
+Right Ventricle: The right ventricle is normal in size and systolic function.
+Valves: The aortic valve is mildly calcified with mild stenosis. The mitral valve shows age-related sclerosis with mild regurgitation. The tricuspid and pulmonic valves are structurally and functionally normal.
+Pericardium: No pericardial effusion is seen.
+Impression:
+Preserved left ventricular ejection fraction (50-55%). Concentric left ventricular hypertrophy.
+Grade II diastolic dysfunction.Mild aortic stenosis.
+Scheduled appointments:
+A follow-up appointment is scheduled with the referring cardiologist, Dr. Patel, on 07/11/2025 to discuss these findings and medication management.
+Date of Dictation: 06/20/2025
+Sonographer: Emily Carter, RDCS
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

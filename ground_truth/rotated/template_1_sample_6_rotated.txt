@@ -1,0 +1,27 @@
+Accession #: M789012-25
+SPRINGFIELD GENERAL HOSPITAL
+The Rose Women's Imaging Center
+555 Health Plaza, Suite 100
+Oak Brook, IL 60523
+Phone: (630) 555-1000
+Fax: (630) 555-1001
+Patient: Susan Walker
+DOB: 02/11/1973
+MRN: 246801
+Gender: Female
+Referring Physician: Dr. Brenda Holloway
+Visit #: 357-913 Date of Visit: 06/20/2025
+Screening Mammogram Report
+Procedure: Bilateral digital mammography with computer-aided detection, craniocaudal and mediolateral oblique views.
+Clinical Indication: Routine annual screening.
+The breasts are heterogeneously dense, which may obscure small masses.
+In the upper outer quadrant of the left breast, there is a 7 mm oval, circumscribed mass. This finding is new when compared to the prior study from 06/15/2024. There are no suspicious calcifications or areas of architectural distortion. The right breast is unremarkable.
+Impression:
+Partially obscured 7 mm oval mass in the upper outer quadrant of the left breast, new from prior.
+BI-RADS Assessment: Category 0 - Incomplete. Needs additional imaging evaluation.
+Scheduled appointments:
+Recommendation for diagnostic mammogram with spot compression views and a targeted ultrasound of the left breast. Our office has contacted the patient to schedule this follow-up examination.
+Date of Dictation: 06/20/2025
+Radiologist: Dr. Mark Reynolds, MD
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

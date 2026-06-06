@@ -1,0 +1,22 @@
+HOSPITAL
+University Dermatology Associates
+950 Campus Drive, Suite 210
+Durham, NC 27708
+(919) 555-3400
+Patient Name: Michael Johnson 
+MRN: 7321856 
+DOB: 08/15/2002 
+Gender: Male 
+Age: 22
+MRN: 7321856 
+Accession: P25-9876 
+Date: 06/19/2025
+The patient is a 22-year-old male who presented for a routine skin examination. He noted a mole on his upper back that he believes has become slightly darker over the past year. He denies any symptoms of pain or itching associated with the lesion. He has a history of significant sun exposure during his teen years and reports occasional sunburns.
+PROCEDURES:
+Shave Biopsy, Upper Back: A 5mm pigmented macule was identified on the superior aspect of the right scapula. After obtaining consent, the area was anesthetized with 1% lidocaine with epinephrine, and a deep shave biopsy of the lesion was performed. Hemostasis was achieved with aluminum chloride. The specimen was sent for histopathologic examination.
+IMPRESSION:
+MICROSCOPIC DESCRIPTION: Sections show a symmetric, well-circumscribed proliferation of nested and single melanocytes confined to the dermal-epidermal junction. The melanocytes are uniform in size and shape with no significant cytologic atypia. No mitotic activity or ulceration is identified.
+DIAGNOSIS: Junctional melanocytic nevus, benign.
+Patient Name: Michael Johnson MRN: 7321856 Age: 22
+Electronically Signed By: Dr. Angela Davis, M.D. (Pathology)
+Date: 06/23/2025 Time: 09:05

@@ -1,0 +1,130 @@
+George L. Washington
+DOB: 12/08/1962   Age: 63   Sex: M
+Acct#: 73388-F     Physician: Dr. Priya N. Sharma, MD
+PRECISION DIAGNOSTIC LAB
+03/28/2026  07:00
+03/28/2026  07:55
+03/28/2026  10:00
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+118 H
+130 H
+01/05/2026
+mg/dL
+70-99
+BUN
+19
+18
+01/05/2026
+mg/dL
+7-25
+Creatinine
+1.02
+0.98
+01/05/2026
+mg/dL
+0.57-1.00
+eGFR
+74
+70
+01/05/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+19
+18
+01/05/2026
+ratio
+6-22
+Sodium
+139
+138
+01/05/2026
+mEq/L
+136-145
+Potassium
+4.2
+4.1
+01/05/2026
+mEq/L
+3.5-5.1
+Chloride
+102
+101
+01/05/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+25
+24
+01/05/2026
+mEq/L
+21-32
+Calcium
+9.3
+9.2
+01/05/2026
+mg/dL
+8.6-10.3
+Protein, Total
+7.0
+7.1
+01/05/2026
+g/dL
+6.1-8.1
+Albumin
+4.1
+4.2
+01/05/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.9
+2.9
+01/05/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.6
+0.7
+01/05/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+80
+78
+01/05/2026
+U/L
+44-121
+AST (SGOT)
+26
+24
+01/05/2026
+U/L
+10-40
+ALT (SGOT)
+30
+27
+01/05/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+7.2 H
+7.0
+01/05/2026
+%
+<5.7

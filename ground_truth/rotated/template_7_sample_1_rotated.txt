@@ -1,0 +1,26 @@
+HOSPITAL
+Grandview Medical Center
+123 Healthway Drive
+Springfield, IL 62704
+(217) 555-1212
+Patient Name: Johnathan Smith 
+MRN: 8675309 
+DOB: 07/14/1958 
+Gender: Male 
+Age: 67
+MRN: 8675309 
+Accession: A54892-24 
+Date: 06/22/2025
+The patient is a 67-year-old male with a long-standing history of essential hypertension, diagnosed approximately 15 years ago. He is also being managed for hyperlipidemia. The patient reports intermittent compliance with his antihypertensive medications. He denies any history of tobacco use but reports occasional social alcohol consumption. There is a family history of cardiovascular disease; his father had a myocardial infarction at age 60.
+PROCEDURES:
+Electrocardiogram (ECG): Revealed normal sinus rhythm with no acute ST-segment elevation or depression. 
+Lipid Panel: Results pending. 
+Basic Metabolic Panel (BMP): Within normal limits. 
+Physical Examination: Blood pressure was elevated at 168/94 mmHg in the right arm.
+IMPRESSION:
+Uncontrolled essential hypertension, likely exacerbated by medication non-compliance. 
+Hyperlipidemia. 
+Family history of premature cardiovascular disease.
+Patient Name: Johnathan Smith MRN: 8675309 Age: 67
+Electronically Signed By:Dr. Emily Carter, M.D.
+Date: 06/23/2025Time: 08:54

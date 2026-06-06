@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: Natalie G. Cruz
+Date of Birth: 06/25/1985
+Proposed Procedure:
+Laparoscopic ovarian cystectomy
+Surgeon / Department:
+Dr. Hannah O. Jacobs, MD — Gynecologic Surgery
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+7.1
+Hgb:
+11.5 L
+Hct:
+34.8 L
+Na:
+140
+K:
+4.0
+Glucose:
+90
+PT:
+12.1
+INR:
+1.0
+PTT:
+26
+Cardiovascular & Pulmonary Risk Assessment
+[ ] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[ ] Hypertension
+[ ] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [ ] No [X] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [X] I  [ ] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [X] No [ ] Yes
+NPO Status (Last Meal/Drink):
+NPO after midnight
+Weight (kg):
+62
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+PONV history with propofol (2022) — use TIVA protocol. Ondansetron 4 mg IV + dexamethasone 4 mg prophylaxis. Iron supplementation 325 mg PO post-op for mild anemia.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:   Isabel Fuentes
+                                 Date:   04/17/2026

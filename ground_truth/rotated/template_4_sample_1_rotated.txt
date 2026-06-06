@@ -1,0 +1,33 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Time of Visit: 10:30 AM
+Attending Physician: Dr. Emily Carter, MD
+Facility: General Health Clinic
+Location: 123 Health St, Anytown, USA 12345
+Date of Birth: 05/15/1979 Age: 46 Gender: Female Contact: (555) 123-4567
+Address: 456 Home Ave, Anytown, USA 12345
+Chief Complaints:
+Sore throat for the past three days
+Persistent dry cough
+Low-grade fever, up to 100.5°F (38.1°C)
+General fatigue and body aches
+Medical History Snapshot:
+Hypertension: Diagnosed in 2018, well-controlled with Lisinopril 10 mg daily.
+Seasonal Allergies: Managed with over-the-counter antihistamines as needed.
+Surgical History: Appendectomy (2005).
+Family History: Mother with a history of hypertension. Father with a history of type 2 diabetes.
+Visit Summary:
+The patient is a 46-year-old female who presented to the clinic with a three-day history of sore throat, dry cough, low-grade fever, and fatigue. She denies any significant shortness of breath, chest pain, or recent travel. Examination revealed an erythematous posterior pharynx without exudates and clear lung sounds bilaterally. Based on the clinical presentation, the patient was diagnosed with an upper respiratory infection, likely viral in origin. A rapid strep test was performed and came back negative. The patient was advised to rest, increase fluid intake, and use over-the-counter medications for symptomatic relief. She was also instructed to follow up if her symptoms worsen or do not improve within the next 7-10 days.
+Exams:
+Constitutional
+Head/Eyes/Ears/Nose/Throat (HEENT)
+Respiratory
+Cardiovascular
+Findings:
+Constitutional: Alert and oriented. Appears fatigued but in no acute distress. Vitals: Temp 100.2°F, BP 128/84 mmHg, HR 88 bpm, RR 16 breaths/min, SpO2 98% on room air.
+HEENT: Head is normocephalic and atraumatic. Pupils are equal, round, and reactive to light. Tympanic membranes are clear. Nasal mucosa is mildly edematous. Posterior pharynx is erythematous with no visible exudates. Neck is supple with mild anterior cervical lymphadenopathy.
+Respiratory: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Respiratory effort is non-labored.
+Cardiovascular: Regular rate and rhythm. S1 and S2 are audible. No murmurs, rubs, or gallops.
+Patient Name: Jane Doe MRN: JD05151979
+Page 1/1

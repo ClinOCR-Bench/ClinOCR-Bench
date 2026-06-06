@@ -1,0 +1,35 @@
+Patient Name: Brenda Johnson MRN: 5551234
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Date of Birth: 07/22/1979 
+Age: 45 
+Gender: Female
+Patient Address: 987 Maple Lane, Springfield, IL 62704
+Midwest Regional Hospital 
+1000 Health Way Springfield, IL 62704 
+Phone: (217) 555-1000 
+Fax: (217) 555-1001
+Accession Number: P25-88765 
+Date of Collection: 06/20/2025 
+Time of Collection: 01:15 PM 
+Specimen Type: Thyroid, Fine Needle Aspiration (FNA)
+Ordering Physician: Dr. Richard Peterson, MD 
+Practice: Central Illinois Endocrinology 
+Address: 500 Medical Park Dr, Springfield, IL 62704 
+Phone: (217) 555-3456
+Final Diagnosis:
+THYROID, RIGHT LOBE, FNA:
+MALIGNANT. Papillary Thyroid Carcinoma.
+(Bethesda System for Reporting Thyroid Cytopathology, Category VI)
+Microscopic Description:
+The smears are cellular and show numerous papillary clusters, syncytial-type fragments, and single atypical follicular cells. The tumor cells demonstrate enlarged, overlapping nuclei with irregular contours, powdery chromatin, and prominent intranuclear pseudoinclusions. Psammoma bodies are also noted. The background is clean.
+Gross Description:
+Received four Papanicolaou-stained and two Diff-Quik-stained slides, all of which are cellular and adequate for interpretation.
+Comments:
+The cytomorphologic features are diagnostic of Papillary Thyroid Carcinoma. Clinical correlation and surgical consultation for thyroidectomy are recommended.
+Biomarkers:
+Molecular Testing (from cell block):
+BRAF V600E Mutation Analysis: Positive
+Interpretation: A BRAF V600E mutation was detected. This finding is associated with Papillary Thyroid Carcinoma and may have prognostic and therapeutic implications.
+Page 1 of 1

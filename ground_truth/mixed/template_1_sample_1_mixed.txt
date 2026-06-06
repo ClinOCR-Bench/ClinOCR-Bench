@@ -1,0 +1,19 @@
+Patient Name: Doe, Jane Patient ID: JG05141985 DOB: 05/14/1985 Date of Service: 2024-05-18 Accession #: IMG9876543 Ordering Physician: Dr. Emily Carter Report Date: 2024-05-20
+SPRINGFIELD GENERAL HOSPITAL
+Springfield General Hospital Imaging Department 123 Health Way, Springfield, IL, 62704 Phone: (217) 555-1212 
+Fax: (217) 555-1213
+Patient Name: Doe, Jane Patient ID: JG05141985 
+DOB: 05/14/1985 
+Sex: Female
+Visit Date: 2024-05-18 Reason for Exam: Persistent headaches, right-sided, worsening over 2 weeks. Exam ID: IMG9876543
+Imaging
+MRI Brain without contrast
+Technique: Multiplanar, multisequence magnetic resonance imaging of the brain was performed without the administration of intravenous contrast. Sequences include T1-weighted, T2-weighted, FLAIR, and diffusion-weighted images.
+Findings: The ventricular system and sulci are normal in size and configuration for the patient's age. No evidence of acute intracranial hemorrhage, mass effect, or midline shift. Grey-white matter differentiation is preserved. No acute territorial infarct identified on diffusion-weighted imaging. The major dural venous sinuses appear patent. Visualized portions of the orbits and paranasal sinuses are unremarkable. The craniocervical junction is unremarkable.
+Impression: Normal MRI study of the brain. No acute intracranial abnormality identified.
+Scheduled appointments:
+Follow-up consultation with Dr. Carter on 2025-06-01 at 10:00 AM to discuss results and further management of headaches.
+Date Reported: 2025-05-20 
+Interpreting Radiologist: Dr. Alan B. Smith, MD, DABR Transcriptionist ID: KLP
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

@@ -1,0 +1,32 @@
+Eastside Children's Medical Center 200 Children's Way, Philadelphia, PA 19104 Phone: (215) 555-6700
+Patient: Liam Garcia MRN: 987654 DOB: 04/10/2022
+Chief Complaint
+Fever, persistent cough, and wheezing for three days. Poor feeding for 24 hours.
+Care Team
+Attending Physician: Dr. Aisha Khan, MD Pager: (215) 555-6789
+Pharmacies
+Rite Aid 850 N Broad St, Philadelphia, PA 19130 Phone: (215) 555-9876
+Vital sign
+T: 102.8°F (Tympanic) 
+HR: 145 bpm 
+BP: 90/60 mmHg 
+RR: 40 breaths/min 
+O2 Sat: 93% on room air
+Allergies
+Peanuts - Hives
+Medications
+Acetaminophen 160 mg/5 mL, as needed for fever.
+Vaccines
+All primary series vaccinations are up to date for age.
+Influenza - 10/30/2024
+Problems
+All primary series vaccinations are up to date for age.
+Influenza - 10/30/2024
+Family History
+Mother: History of seasonal allergies.
+Father: History of childhood asthma.
+Older sister: Healthy.
+Social History
+Attends daycare full-time.
+Lives at home with parents and one older sibling.
+Non-smoking household. No pets.

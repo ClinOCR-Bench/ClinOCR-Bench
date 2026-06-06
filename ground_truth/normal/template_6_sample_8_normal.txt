@@ -1,0 +1,18 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Linda Harris Date of Birth: 10/25/1968 
+MRN: 234567
+Ordering Physician: Dr. Sarah Collins 
+Procedure: Stereotactic core needle biopsy, left breast
+Accession #: SB-25-66778
+Date of Procedure: 06/23/2025 Date of Report: 06/25/2025
+Clinical History: 56-year-old female with a new 1.2 cm cluster of pleomorphic microcalcifications in the left breast at the 10 o'clock position, identified on screening mammogram (BI-RADS 4C). 
+Diagnosis: Left Breast, 10 o'clock, Core Biopsy: Ductal Carcinoma in Situ (DCIS), intermediate nuclear grade. 
+Gross Description: Received in formalin, labeled 'left breast cores,' are five tan-white, firm core biopsies, ranging from 1.2 cm to 1.5 cm in length. A specimen radiograph confirms the presence of microcalcifications corresponding to the area of concern. The cores are submitted entirely in one cassette. 
+Microscopic Description: Sections show breast tissue with multiple ducts expanded and filled by a monotonous population of atypical epithelial cells. The architecture is predominantly solid and cribriform. The cells exhibit moderately enlarged, pleomorphic nuclei with irregular contours. Central necrosis (comedonecrosis) is present within some of the involved ducts, associated with psammomatous microcalcifications. No evidence of stromal invasion is identified in the tissue provided. 
+Comment: The findings are diagnostic of Ductal Carcinoma in Situ. As this is a core biopsy diagnosis, definitive grading and assessment of margins will be performed on the subsequent excision specimen. Radiologic-pathologic correlation is recommended.
+Specimen: Left breast core needle biopsy
+Pathologist: Dr. Amanda Wright
+Report status: Final
+Accession #: SB-25-66778
+Page 1 of 1

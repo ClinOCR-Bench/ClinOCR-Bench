@@ -1,0 +1,38 @@
+Patient Name: Emily White MRN: 9876543
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Date of Birth: 
+11/30/1955 
+Age: 69 
+Gender: Female 
+Patient Address: 789 Pine Street, Seaside, USA 54321
+Coastal Medical Center 
+456 Ocean View Drive Seaside, USA 54321 
+Phone: (555) 234-5678 
+Fax: (555) 234-5679
+Accession Number: P2025-67890
+Date of Collection: 06/20/2025
+Time of Collection: 09:00 AM
+Specimen Type: Lung, Right Upper Lobe, Wedge Resection
+Ordering Physician: Dr. Michael Chen, MD 
+Practice: Thoracic Surgery Associates 
+Address: 101 Medical Plaza, Seaside, USA 54321 
+Phone: (555) 876-5432
+Final Diagnosis:
+Lung, right upper lobe: Adenocarcinoma, lepidic predominant, well-differentiated.
+Microscopic Description:
+The sections demonstrate a proliferation of atypical pneumocytes along the alveolar septa in a lepidic growth pattern. The tumor cells are cuboidal to columnar with mild nuclear atypia and inconspicuous nucleoli. There are focal areas of invasion measuring less than 0.5 cm. The surrounding lung parenchyma shows mild emphysematous changes. Surgical margins are negative for malignancy.
+Gross Description:
+Received fresh, labeled with the patient's name and "right upper lobe wedge," is a 5.5 x 3.2 x 2.1 cm wedge of lung tissue with a smooth, glistening pleural surface. Sectioning reveals a solitary, ill-defined, tan-white nodule measuring 1.2 cm in greatest dimension, located 0.8 cm from the nearest staple line.
+Comments:
+The tumor is a well-differentiated adenocarcinoma with a predominant lepidic growth pattern. The surgical margins are free of tumor. Correlation with preoperative imaging is recommended.
+Biomarkers:
+PD-L1 Immunohistochemistry:
+Tumor Proportion Score (TPS): < 1%
+Molecular Testing:
+EGFR Mutation Analysis: Negative for common activating mutations in exons 18, 19, 20, and 21.
+ALK Gene Rearrangement (FISH): Negative
+ROS1 Gene Rearrangement (FISH): Negative
+Interpretation: The tumor is negative for PD-L1 expression and lacks common targetable mutations in EGFR, ALK, and ROS1.
+Page 1 of 1

@@ -1,0 +1,130 @@
+Angela R. Fontaine
+DOB: 05/17/1978   Age: 47   Sex: F
+Acct#: 31985-C     Physician: Dr. Sarah K. Bloom, MD
+PRECISION DIAGNOSTIC LAB
+04/10/2026  08:00
+04/10/2026  08:45
+04/10/2026  11:30
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+88
+91
+01/15/2026
+mg/dL
+70-99
+BUN
+11
+13
+01/15/2026
+mg/dL
+7-25
+Creatinine
+0.70
+0.68
+01/15/2026
+mg/dL
+0.57-1.00
+eGFR
+112
+108
+01/15/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+16
+19
+01/15/2026
+ratio
+6-22
+Sodium
+140
+142
+01/15/2026
+mEq/L
+136-145
+Potassium
+4.3
+4.2
+01/15/2026
+mEq/L
+3.5-5.1
+Chloride
+104
+105
+01/15/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+26
+27
+01/15/2026
+mEq/L
+21-32
+Calcium
+9.6
+9.4
+01/15/2026
+mg/dL
+8.6-10.3
+Protein, Total
+7.3
+7.1
+01/15/2026
+g/dL
+6.1-8.1
+Albumin
+4.5
+4.4
+01/15/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.8
+2.7
+01/15/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.4
+0.5
+01/15/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+65
+70
+01/15/2026
+U/L
+44-121
+AST (SGOT)
+18
+20
+01/15/2026
+U/L
+10-40
+ALT (SGOT)
+15
+18
+01/15/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+5.2
+5.3
+01/15/2026
+%
+<5.7

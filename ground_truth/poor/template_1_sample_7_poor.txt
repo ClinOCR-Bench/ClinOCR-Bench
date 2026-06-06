@@ -1,0 +1,23 @@
+Accession #: L20250620-1148
+SPRINGFIELD GENERAL HOSPITAL
+Premier Clinical Laboratories
+1200 Technology Drive
+Austin, TX 78759
+Phone: (512) 555-5000
+Fax: (512) 555-5001
+Patient: James Peterson
+DOB: 07/30/1955
+MRN: 357159
+Gender: Male
+Referring Physician: Dr. Laura Fernandez
+Order #: 998123 Date Collected: 06/20/2025 Date Reported: 06/20/2025
+Clinical Laboratory Report
+Comprehensive Metabolic Panel (CMP)
+The results of the Comprehensive Metabolic Panel show a Glucose level that is elevated at 132 mg/dL. The BUN is also elevated at 22 mg/dL. Liver function tests show an elevated ALT of 55 IU/L and an elevated AST of 48 IU/L.
+The following tests are within normal limits: Sodium at 140 mmol/L, Potassium at 4.1 mmol/L, Chloride at 101 mmol/L, Carbon Dioxide at 25 mmol/L, Creatinine at 1.2 mg/dL, Calcium at 9.5 mg/dL, Alkaline Phosphatase at 110 IU/L, Total Protein at 7.2 g/dL, Albumin at 4.1 g/dL, and Total Bilirubin at 0.8 mg/dL.
+Comment: Mild hyperglycemia and mild elevation in liver transaminases are noted. Clinical correlation is recommended.
+Recommendation to repeat liver function tests and check Hemoglobin A1c in 1-3 months based on clinical evaluation for hyperglycemia. Follow up with referring provider.
+Date of Review: 06/20/2025 
+Laboratory Director: Dr. Charles Evans, PhD
+CONFIDENTIALITY NOTICE: This report contains confidential patient information protected by federal and state law. It is intended only for the use of the individual or entity to whom it is addressed. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or action taken in reliance on the contents of these documents is strictly prohibited. If you have received this report in error, please notify the sender immediately by telephone at (217) 555-1212 and destroy this document. 
+Springfield General Hospital Imaging Department | 123 Health Way, Springfield, IL, 62704 

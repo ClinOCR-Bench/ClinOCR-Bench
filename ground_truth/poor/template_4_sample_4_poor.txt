@@ -1,0 +1,33 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Attending Provider: Dr. Sarah Jenkins, MD
+Location: Orthopedic & Sports Medicine Center
+Visit ID: ENC-A4B3C2D1
+Date of Birth: 10/30/1952 Age: 72 Sex: Male
+Address: 789 Pine Lane, Lincolnwood, USA 54321
+Chief Complaints:
+Worsening chronic right knee pain
+Difficulty walking and climbing stairs
+Morning stiffness
+Discussion of surgical options
+Medical History Snapshot:
+Primary Diagnosis: Severe tricompartmental osteoarthritis of the right knee
+Other Chronic Conditions: Type 2 Diabetes Mellitus, Hypertension, Coronary Artery Disease
+Surgical History: Coronary artery stent placement (2018), Laparoscopic Cholecystectomy (2005)
+Medications: Metformin 1000mg daily, Lisinopril 20mg daily, Atorvastatin 40mg daily, Aspirin 81mg daily
+Allergies: Codeine (nausea and vomiting)
+Visit Summary:
+Mr. Anderson is a 72-year-old male presenting for follow-up of severe right knee osteoarthritis. He reports a progressive worsening of pain over the past six months, which he now rates as an 8/10 with activity. The pain significantly impacts his mobility, limiting his ability to walk more than a single block, and frequently disturbs his sleep. He has failed to achieve lasting relief from conservative treatments, including a course of physical therapy and a corticosteroid injection administered 8 months prior. Recent knee X-rays confirm severe medial and patellofemoral joint space narrowing. After a thorough discussion of the risks, benefits, and alternatives, the patient expressed a clear understanding and desire to proceed with surgical intervention. He has been scheduled for a right total knee arthroplasty and referred for pre-operative medical and cardiac clearance.
+Exams:
+Vitals, Cardiovascular, Musculoskeletal - Right Knee, Gait & Station
+Findings:
+Vitals: BP 134/78 mmHg, Pulse 72 bpm, RR 16, Temp 98.4°F.
+Cardiovascular: Regular rate and rhythm. Distal pulses are strong and equal in both lower extremities.
+Musculoskeletal - Right Knee:
+Inspection: A mild effusion is present. A notable varus deformity is observed. No erythema or warmth.
+Palpation: Palpable crepitus with any flexion or extension. Point tenderness over the medial joint line.
+Range of Motion: Limited active range of motion from 5 to 110 degrees due to pain.
+Gait & Station: The patient demonstrates a significant antalgic gait, bearing minimal weight on the right leg. He is unable to perform a full squat.
+Patient: Robert Anderson MRN: 987-65-4321
+Page 1/1

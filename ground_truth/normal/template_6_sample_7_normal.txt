@@ -1,0 +1,18 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Susan Walker Date of Birth: 05/20/1980 
+MRN: 890123
+Ordering Physician: Dr. James O'Connell 
+Procedure: Ultrasound-guided Fine-Needle Aspiration (FNA) of Thyroid Nodule
+Accession #: CY-25-77890
+Date of Procedure: 06/23/2025 Date of Report: 06/25/2025
+Clinical History: 45-year-old female with a 2.5 cm solid, hypoechoic nodule in the right lobe of the thyroid, discovered on ultrasound. 
+Diagnosis: Thyroid, Right Lobe, Fine-Needle Aspiration: Suspicious for Malignancy (Bethesda Category V). 
+Specimen Adequacy: The specimen is adequate for evaluation. 
+Microscopic Description: The aspirate is cellular and shows crowded clusters of follicular cells with a microfollicular architecture. The cells exhibit nuclear enlargement, chromatin pallor, and irregular nuclear contours. Occasional nuclear grooves and rare intranuclear cytoplasmic pseudoinclusions are identified. Colloid is scant in the background. The features are highly suspicious for Papillary Thyroid Carcinoma. 
+Comment: The cytomorphologic features are suspicious for papillary thyroid carcinoma. Per the Bethesda System for Reporting Thyroid Cytopathology, surgical excision is recommended for definitive diagnosis.
+Specimen: Fine-Needle Aspiration (FNA) of right thyroid nodule
+Pathologist: Dr. Katherine Reed
+Report status: Final
+Accession #: CY-25-77890
+Page 1 of 1

@@ -1,0 +1,58 @@
+Desert Valley Geriatric Medicine 
+Patient: Dorothy R. Ingram DOB: 08/01/1939 Visit: 04/20/2026
+Meds
+Dosage
+How often
+Description
+Donepezil
+10 mg
+Once daily (PM)
+Cholinesterase inhibitor; mild Alzheimer's disease
+Memantine
+10 mg
+Twice daily
+NMDA antagonist; moderate-severe dementia
+Rivastigmine patch
+9.5 mg/24hr
+Change every 24 hours
+Transdermal cholinesterase inhibitor
+Amlodipine
+5 mg
+Once daily (AM)
+Calcium channel blocker; hypertension
+Losartan
+50 mg
+Once daily (AM)
+ARB; hypertension and renal protection
+Pantoprazole
+40 mg
+Once daily (before AM meal)
+PPI; chronic GERD management
+Mirtazapine
+15 mg
+Once daily (bedtime)
+NaSSA; depression, appetite stimulation
+Lorazepam
+0.5 mg
+As needed (max 1x/day)
+Benzodiazepine; acute agitation / anxiety — use caution
+Daily Vitamins
+Dosage
+How often
+Description
+Vitamin B12 (sublingual)
+1,000 mcg
+Once daily
+Neurological support; age-related B12 malabsorption
+Vitamin D3
+3,000 IU
+Once daily (with meal)
+Fall prevention; bone density
+Folate
+400 mcg
+Once daily
+Homocysteine regulation; cognitive support
+Melatonin
+0.5 mg
+30 min before bedtime
+Circadian rhythm support; sleep onset

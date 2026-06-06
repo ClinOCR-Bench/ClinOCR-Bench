@@ -1,0 +1,75 @@
+Angela R. Fontaine
+DOB: 05/17/1978   
+Age: 47   
+Sex: F
+Acct#: 31985-C     Physician: Dr. Sarah K. Bloom, MD
+PRECISION DIAGNOSTIC LAB
+04/10/2026  08:00
+04/10/2026  08:45
+04/10/2026  11:30
+NMR LipoProfile
+NMR LipoProfile 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+LDL Particle Number
+840
+900
+01/15/2026
+nmol/L
+<1000
+LDL-P
+840
+900
+01/15/2026
+nmol/L
+<1000
+Lipids
+LDL-C (NIH Clac)
+88
+92
+01/15/2026
+mg/dL
+<100
+HDL-C
+65
+62
+01/15/2026
+mg/dL
+>=40
+Triglycerides
+108
+115
+01/15/2026
+mg/dL
+<150
+Cholesterol, Total
+172
+180
+01/15/2026
+mg/dL
+<200
+LDL and HDL Particles
+HDL-P (Total)
+34.2
+33.0
+01/15/2026
+nmol/L
+>=30.5
+Small LDL-P
+320
+348
+01/15/2026
+nmol/L
+<527
+LDL Size
+21.2
+20.9
+01/15/2026
+nm
+>=20.5
+Comment
+Lipid particle profile within acceptable range. Continue current dietary regimen and exercise program. Reassess in 12 months.

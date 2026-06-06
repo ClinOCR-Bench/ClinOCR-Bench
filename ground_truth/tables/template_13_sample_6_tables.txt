@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+Helen F. Morrison
+Date of Birth (MM/DD/YYYY):
+05/30/1955
+Patient ID / MRN:
+MRN-031928
+Gender: [ ] M  [X] F  [ ] Other
+Phone Number: (713) 555-2288
+Today's Date: 04/08/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+128/76
+70
+14
+98.4
+99
+162
+63
+Medical History
+[ ] Hypertension
+[ ] Diabetes (Type I)
+[ ] Diabetes (Type II)
+[ ] Asthma
+[ ] COPD
+[ ] Heart Disease
+[X] High Cholesterol
+[X] Thyroid Disorder
+[ ] Arthritis
+[X] Cancer
+[ ] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Letrozole
+2.5 mg
+Once daily
+Levothyroxine
+88 mcg
+Once daily (fasting)
+Alendronate
+70 mg
+Once weekly
+Calcium Citrate + Vit D
+500 mg / 400 IU
+Twice daily
+Allergies
+Allergen
+Reaction Type
+Sulfa drugs
+Rash
+Codeine
+Nausea
+Reason for Visit
+Breast cancer survivorship coordination visit. Bone density scan ordered. Reports joint stiffness attributed to aromatase inhibitor use.
+Provider Signature:   Linda Yamamoto
+Date:   04/08/2026

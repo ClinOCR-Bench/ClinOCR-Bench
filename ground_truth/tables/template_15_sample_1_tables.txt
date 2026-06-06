@@ -1,0 +1,54 @@
+04/22/2026
+St. Mercy General Hospital — Clinical Laboratory
+Name: Patricia H. Simmons
+Acct#: 88234-A
+Date: 04/22/2026
+Age: 60
+Sex: F
+DOB: 07/22/1965
+Attend Dr: Dr. Elena Vasquez
+Location: Main Campus
+SPEC#: S-2026-04-22-001
+ENTER TIME: 07:15
+ORDER TIME: 07:00
+COLLECTED TIME: 07:15
+REPORT TIME: 10:45
+STATUS: FINAL
+REQ#: R-88234
+Test
+Result
+Flag
+Reference
+Site
+WBC
+7.2 x10³/µL
+4.5 - 11.0
+MC
+REC
+4.55 x10⁶/µL
+4.00 - 5.20
+MC
+HGB
+13.8 g/dL
+12.0 - 16.0
+MC
+HCT
+41.2 %
+36.0 - 46.0
+MC
+MCV
+90.5 fL
+80.0 - 100.0
+MC
+MCH
+30.3 pg
+27.0 - 33.0
+MC
+MCHC
+33.5 g/dL
+32.0 - 36.0
+MC
+PLT
+225 x10³/µL
+150 - 400
+MC

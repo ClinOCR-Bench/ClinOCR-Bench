@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+James A. Whitfield
+Date of Birth (MM/DD/YYYY):
+06/12/1958
+Patient ID / MRN:
+MRN-004738
+Gender: [X] M  [ ] F  [ ] Other
+Phone Number: (713) 555-0142
+Today's Date: 04/22/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+142/88
+72
+16
+98.4
+97
+198
+70
+Medical History
+[X] Hypertension
+[ ] Diabetes (Type I)
+[X] Diabetes (Type II)
+[ ] Asthma
+[ ] COPD
+[ ] Heart Disease
+[X] High Cholesterol
+[ ] Thyroid Disorder
+[ ] Arthritis
+[ ] Cancer
+[ ] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Lisinopril
+20 mg
+Once daily
+Metformin HCl
+1000 mg
+Twice daily
+Atorvastatin
+80 mg
+Once daily (PM)
+Furosemide
+40 mg
+Once daily (AM)
+Allergies
+Allergen
+Reaction Type
+Penicillin
+Hives / urticaria
+Sulfa drugs
+Rash
+Reason for Visit
+Follow-up for hypertension and diabetes glycemic management. Patient reports mild fatigue over past 2 weeks. A1c recheck ordered.
+Provider Signature:   Rachel L. Torres
+Date:   04/22/2026

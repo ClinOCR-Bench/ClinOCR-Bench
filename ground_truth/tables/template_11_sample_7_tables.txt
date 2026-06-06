@@ -1,0 +1,130 @@
+Natalie G. Cruz
+DOB: 06/25/1985   Age: 40   Sex: F
+Acct#: 81024-G     Physician: Dr. Alan T. Greenwood, MD
+PRECISION DIAGNOSTIC LAB
+04/05/2026  08:30
+04/05/2026  09:15
+04/05/2026  11:40
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+90
+92
+02/10/2026
+mg/dL
+70-99
+BUN
+13
+12
+02/10/2026
+mg/dL
+7-25
+Creatinine
+0.75
+0.72
+02/10/2026
+mg/dL
+0.57-1.00
+eGFR
+105
+108
+02/10/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+17
+17
+02/10/2026
+ratio
+6-22
+Sodium
+140
+141
+02/10/2026
+mEq/L
+136-145
+Potassium
+4.2
+4.1
+02/10/2026
+mEq/L
+3.5-5.1
+Chloride
+102
+103
+02/10/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+25
+26
+02/10/2026
+mEq/L
+21-32
+Calcium
+9.5
+9.4
+02/10/2026
+mg/dL
+8.6-10.3
+Protein, Total
+7.2
+7.0
+02/10/2026
+g/dL
+6.1-8.1
+Albumin
+4.4
+4.3
+02/10/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.8
+2.7
+02/10/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.5
+0.4
+02/10/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+68
+71
+02/10/2026
+U/L
+44-121
+AST (SGOT)
+20
+19
+02/10/2026
+U/L
+10-40
+ALT (SGOT)
+17
+16
+02/10/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+5.5
+5.4
+02/10/2026
+%
+<5.7

@@ -1,0 +1,29 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Attending Provider: Dr. Samuel Jones, MD
+Location: Northside Family Practice
+Visit ID: ENC-K2L7M1N
+Date of Birth: 07/08/1979 Age: 45 Sex: Male
+Address: 221B Baker Street, Centerville, USA 45459
+Chief Complaints:
+Follow-up visit for Generalized Anxiety Disorder
+Difficulty falling asleep
+Medication management
+Medical History Snapshot:
+Active Problems: Generalized Anxiety Disorder (GAD), Chronic Insomnia
+Surgical History: None
+Family History: Father with a history of depression.
+Medications: Escitalopram 10mg daily, Trazodone 50mg at bedtime.
+Allergies: Sulfa antibiotics (causes hives).
+Visit Summary:
+David is a 45-year-old male here for a 3-month follow-up on his anxiety and insomnia. He reports significant improvement in his daytime anxiety since starting Escitalopram, with his GAD-7 score decreasing from 15 to 4. He denies symptoms of depression. His primary remaining issue is sleep-onset insomnia, stating it often takes him more than an hour to fall asleep. The current dose of Trazodone helps him stay asleep but does not aid with initiation. We discussed reinforcing strict sleep hygiene principles. Given the persistent symptoms, a decision was made to increase his Trazodone dose to 100mg at bedtime. He will continue his current dose of Escitalopram. A telephone check-in is scheduled for 4 weeks to evaluate his response to the new dosage.
+Exams:
+Vitals, Constitutional, Psychiatric, Cardiovascular
+Findings:
+Vitals: BP 122/74 mmHg, Pulse 68 bpm, RR 14.
+Constitutional: Well-groomed, well-nourished male in no acute distress.
+Psychiatric: Mood is euthymic. Affect is appropriate. Thought process is logical and goal-directed. Denies suicidal ideation.
+Cardiovascular: Regular rate and rhythm, no murmurs appreciated.
+Patient: David W. Miller MRN: 314-15-9265
+Page 1/1

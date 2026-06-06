@@ -1,0 +1,130 @@
+Harold S. Kim
+DOB: 03/19/1970   Age: 56   Sex: M
+Acct#: 90173-H     Physician: Dr. Lucia M. Reyes, MD
+PRECISION DIAGNOSTIC LAB
+04/20/2026  07:30
+04/20/2026  08:20
+04/20/2026  10:50
+CMP, HbA1c
+Comp. Metabolic Panel 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Glucose
+108 H
+100
+03/15/2026
+mg/dL
+70-99
+BUN
+24
+22
+03/15/2026
+mg/dL
+7-25
+Creatinine
+1.18
+1.10
+03/15/2026
+mg/dL
+0.57-1.00
+eGFR
+67
+72
+03/15/2026
+mL/min/1.73m2
+>=60
+BUN/Creatinine Ratio
+20
+20
+03/15/2026
+ratio
+6-22
+Sodium
+138
+139
+03/15/2026
+mEq/L
+136-145
+Potassium
+4.4
+4.2
+03/15/2026
+mEq/L
+3.5-5.1
+Chloride
+101
+100
+03/15/2026
+mEq/L
+98-107
+Carbon Dioxide, Total
+23
+24
+03/15/2026
+mEq/L
+21-32
+Calcium
+9.2
+9.3
+03/15/2026
+mg/dL
+8.6-10.3
+Protein, Total
+6.9
+7.0
+03/15/2026
+g/dL
+6.1-8.1
+Albumin
+4.0
+4.1
+03/15/2026
+g/dL
+3.5-5.0
+Globulin, Total
+2.9
+2.9
+03/15/2026
+g/dL
+1.9-3.7
+Bilirubin, Total
+0.7
+0.6
+03/15/2026
+mg/dL
+0.2-1.2
+Alkaline Phosphatase
+84
+82
+03/15/2026
+U/L
+44-121
+AST (SGOT)
+29
+26
+03/15/2026
+U/L
+10-40
+ALT (SGOT)
+35
+31
+03/15/2026
+U/L
+7-56
+Hemoglobin A1c 
+Test
+Result
+Previous Result
+Date
+Units
+Ref Interval
+Hemoglobin A1c 
+6.5
+6.2
+03/15/2026
+%
+<5.7

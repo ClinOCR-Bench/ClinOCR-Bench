@@ -1,0 +1,37 @@
+Lakewood Hospital - Pathology Pathology Report Patient: Peterson, Mark Alan (MRN: LH45-67-89X)
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Patient Name: Peterson, Mark Alan 
+Date of Birth: March 22, 1965 Medical Record Number: LH45-67-89X 
+Gender: Male 
+Patient Address: 345 Mountain View Ave, Lakewood, CO, 80215
+Lakewood Hospital - Department of Anatomic & Clinical Pathology 
+9000 Forest Pine Road, Lakewood, CO, 80210 Laboratory Direct Line: (303) 555-0100 | Pathology Fax: (303) 555-0102 CLIA Number: 05D1234567 | CAP Accreditation No: 8005001
+Accession Number: LHP-25-78901 
+Date Collected: May 19, 2025 
+Time Collected: 02:15 PM 
+Date Received: May 19, 2025 
+Time Received: 03:00 PM 
+Date Reported: May 21, 2025 
+Time Reported: 12:15 PM 
+Specimen Type: Punch Biopsy, Skin - Right Upper Back
+Ordering Physician: Dr. Sarah Jennings, MD, FAAD 
+Clinic/Location: Lakewood Dermatology Center 
+Address: 875 Professional Park Drive, Suite 200, Lakewood, CO, 80210 
+Physician Phone: (303) 555-0250 
+Physician NPI: 9876543210
+Diagnosis: 
+SKIN, RIGHT UPPER BACK, PUNCH BIOPSY: ATYPICAL MELANOCYTIC NEVUS (DYSPLASTIC NEVUS) WITH SEVERE ARCHITECTURAL DISORDER AND SEVERE CYTOLOGIC ATYPIA. THE ATYPICAL PROLIFERATION EXTENDS TO THE PERIPHERAL AND DEEP BIOPSY MARGINS.
+Comments:
+The findings are those of a severely dysplastic nevus. Given the degree of atypia and the involvement of margins in this punch biopsy specimen, complete re-excision with clear margins (typically 5mm or as clinically indicated) is strongly recommended to exclude the possibility of an adjacent melanoma and to ensure complete removal of the atypical lesion. Correlation with clinical findings is essential. If re-excision is performed, submission of the entire specimen for histologic evaluation is advised.
+Biomarkers:
+Immunohistochemical Stains: 
+Melan-A (MART-1): Highlights the atypical melanocytic proliferation, confirming melanocytic lineage.
+SOX10: Strong nuclear positivity in atypical melanocytes.
+HMB-45: Patchy positivity within the junctional component.
+PRAME: Diffusely positive within the atypical melanocytic proliferation (reported in approximately 30-40% of severely dysplastic nevi and melanomas).
+Ki-67: Proliferation index is focally elevated, up to 8-10% in areas of greatest atypia.
+Further molecular testing (e.g., for BRAF mutations) is not routinely performed on dysplastic nevi but may be considered on subsequent specimens if features suspicious for melanoma are identified.
+Printed: May 21, 2025 12:35 PM
+Page 1 of 1

@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+David P. Kowalski
+Date of Birth (MM/DD/YYYY):
+02/07/1962
+Patient ID / MRN:
+MRN-023417
+Gender: [X] M  [ ] F  [ ] Other
+Phone Number:
+(346) 555-0617
+Today's Date:
+03/25/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+136/82
+66
+14
+98.0
+98
+185
+71
+Medical History
+[X] Hypertension
+[ ] Diabetes (Type I)
+[X] Diabetes (Type II)
+[ ] Asthma
+[ ] COPD
+[X] Heart Disease
+[X] High Cholesterol
+[ ] Thyroid Disorder
+[ ] Arthritis
+[ ] Cancer
+[ ] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Metoprolol Succinate
+50 mg
+Once daily
+Aspirin EC
+81 mg
+Once daily
+Empagliflozin
+10 mg
+Once daily
+Rosuvastatin
+20 mg
+Once daily (PM)
+Allergies
+Allergen
+Reaction Type
+Contrast dye
+Anaphylaxis — requires pre-medication
+Reason for Visit
+Post-MI 6-month follow-up. Cardiac stress test reviewed. Patient reports good exercise tolerance and no angina symptoms.
+Provider Signature:   Kevin D. Osei
+Date:   03/25/2026

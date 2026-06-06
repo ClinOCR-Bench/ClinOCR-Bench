@@ -1,0 +1,54 @@
+03/25/2026
+Lakewood Regional Medical Center — Laboratory
+Name: David P. Kowalski
+Acct#: 23417-E
+Date: 03/25/2026
+Age: 64
+Sex: M
+DOB: 02/07/1962
+Attend Dr: Dr. Carolyn T. Nash
+Location: Cardiology
+SPEC#: S-2026-03-25-055
+ENTER TIME: 07:45
+ORDER TIME: 07:30
+COLLECTED TIME: 07:45
+REPORT TIME: 10:30
+STATUS: FINAL
+REQ#: R-23417
+Test
+Result
+Flag
+Reference
+Site
+WBC
+8.8 x10³/µL
+4.5 - 11.0
+CARD
+REC
+4.42 x10⁶/µL
+4.00 - 5.20
+CARD
+HGB
+13.5 g/dL
+13.5 - 17.5
+CARD
+HCT
+40.8 %
+41.0 - 53.0
+CARD
+MCV
+92.3 fL
+80.0 - 100.0
+CARD
+MCH
+30.5 pg
+27.0 - 33.0
+CARD
+MCHC
+33.1 g/dL
+32.0 - 36.0
+CARD
+PLT
+195 x10³/µL
+150 - 400
+CARD

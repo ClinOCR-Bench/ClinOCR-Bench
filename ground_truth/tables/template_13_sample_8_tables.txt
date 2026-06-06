@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+Dorothy R. Ingram
+Date of Birth (MM/DD/YYYY):
+01/17/1938
+Patient ID / MRN:
+MRN-045772
+Gender: [ ] M  [X] F  [ ] Other
+Phone Number: (713) 555-3301
+Today's Date: 04/20/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+148/86
+78
+16
+97.6
+96
+148
+62
+Medical History
+[X] Hypertension
+[ ] Diabetes (Type I)
+[X] Diabetes (Type II)
+[ ] Asthma
+[ ] COPD
+[ ] Heart Disease
+[ ] High Cholesterol
+[ ] Thyroid Disorder
+[X] Arthritis
+[ ] Cancer
+[X] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Donepezil
+10 mg
+Once daily (PM)
+Amlodipine
+5 mg
+Once daily
+Metformin
+500 mg
+Twice daily
+Oxybutynin
+5 mg
+Once daily
+Allergies
+Allergen
+Reaction Type
+Morphine
+Extreme nausea
+Ibuprofen
+GI bleeding
+Reason for Visit
+Geriatric cognitive reassessment. Family reports increasing evening confusion. MMSE declined 2 points since last visit. Caregiver present.
+Provider Signature:   Angela M. Forsythe
+Date:   04/20/2026

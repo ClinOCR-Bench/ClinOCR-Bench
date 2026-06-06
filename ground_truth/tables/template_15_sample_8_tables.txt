@@ -1,0 +1,57 @@
+04/20/2026
+Desert Valley Geriatric Hospital — Laboratory
+Name: Dorothy R. Ingram
+Acct#: 45772-H
+Date: 04/20/2026
+Age: 88
+Sex: F
+DOB: 01/17/1938
+Attend Dr: Dr. Samuel T. Baines
+Location: Geriatrics
+SPEC#: S-2026-04-20-090
+ENTER TIME: 08:00
+ORDER TIME: 07:50
+COLLECTED TIME: 08:00
+REPORT TIME: 10:30
+STATUS: FINAL
+REQ#: R-45772
+Test
+Result
+Flag
+Reference
+Site
+WBC
+9.6 x10³/µL
+4.5 - 11.0
+GER
+REC
+3.55 x10⁶/µL
+L
+4.00 - 5.20
+GER
+HGB
+10.5 g/dL
+L
+12.0 - 16.0
+GER
+HCT
+31.8 %
+L
+36.0 - 46.0
+GER
+MCV
+89.5 fL
+80.0 - 100.0
+GER
+MCH
+29.6 pg
+27.0 - 33.0
+GER
+MCHC
+33.0 g/dL
+32.0 - 36.0
+GER
+PLT
+168 x10³/µL
+150 - 400
+GER

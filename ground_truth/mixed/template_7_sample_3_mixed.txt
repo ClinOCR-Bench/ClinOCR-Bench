@@ -1,0 +1,24 @@
+HOSPITAL
+Advanced Imaging Associates
+789 Innovation Way
+Phoenix, AZ 85004
+(602) 555-7890
+Patient Name: Brenda Walker 
+MRN: 1032547 
+DOB: 03/21/1951 
+Gender: Female 
+Age: 74
+MRN: 1032547 
+Accession: R44091-25 
+Date: 06/23/2025
+The patient is a 74-year-old female with a chief complaint of chronic, progressive right knee pain over the last several years. The pain is exacerbated by weight-bearing and activity such as walking or climbing stairs, and she reports morning stiffness that lasts for about 30 minutes. She has previously tried over-the-counter NSAIDs with partial relief. There is no history of acute trauma to the knee.
+PROCEDURES:
+MRI Right Knee without contrast: Multiplanar, multisequence magnetic resonance imaging of the right knee was performed.
+IMPRESSION:
+Severe tricompartmental osteoarthritis, most pronounced in the medial femorotibial compartment with high-grade cartilage loss, subchondral cystic changes, and marginal osteophytes.
+Complex degenerative tear of the posterior horn of the medial meniscus.
+Moderate-sized joint effusion.
+No acute fracture or ligamentous rupture identified.
+Patient Name: Brenda Walker MRN: 1032547 Age: 74
+Electronically Signed By: Dr. Samuel Jones, M.D. (Radiology)
+Date: 06/23/2025 Time: 09:03

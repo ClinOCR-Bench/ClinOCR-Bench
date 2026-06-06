@@ -1,0 +1,33 @@
+University Medical Center 456 Oak Avenue, Springfield, IL 62704 Phone: (217) 555-1234
+Jane Smith MRN: 789012 DOB: 05/15/1968
+Chief Complaint
+Chest pain and shortness of breath for two days.
+Care Team
+Attending Physician: Dr. Robert Jones, MD Pager: (217) 555-5678
+Pharmacies
+Main Street Pharmacy 123 Main Street, Springfield, IL 62701 Phone: (217) 555-8765
+Vital sign
+T: 98.9°F 
+HR: 98 bpm 
+BP: 145/92 mmHg 
+RR: 20 breaths/min 
+O2 Sat: 94% on room air
+Allergies
+Penicillin - Rash
+Medications
+Lisinopril 10 mg daily
+Vaccines
+Influenza - 10/15/2024 
+Tdap - 08/20/2022 COVID-19 
+Bivalent Booster - 12/05/2024
+Problems
+Hypertension 
+Hyperlipidemia 
+Type 2 Diabetes Mellitus
+Family History
+Father: History of coronary artery disease, deceased at age 65 from myocardial infarction.
+Mother: History of hypertension and type 2 diabetes.
+Social History
+Tobacco: Smokes 1 pack of cigarettes per day for 30 years.
+Alcohol: Occasional social use.
+Employment: Retired office manager.

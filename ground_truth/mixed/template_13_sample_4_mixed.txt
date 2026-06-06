@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+Sandra K. Okafor
+Date of Birth (MM/DD/YYYY):
+08/19/1980
+Patient ID / MRN:
+MRN-019883
+Gender: [ ] M  [X] F  [ ] Other
+Phone Number: (713) 555-1204
+Today's Date: 02/14/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+124/80
+76
+15
+98.2
+98
+138
+65
+Medical History
+[X] Hypertension
+[ ] Diabetes (Type I)
+[ ] Diabetes (Type II)
+[ ] Asthma
+[ ] COPD
+[ ] Heart Disease
+[ ] High Cholesterol
+[ ] Thyroid Disorder
+[X] Arthritis
+[ ] Cancer
+[ ] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Hydroxychloroquine
+400 mg
+Once daily
+Prednisone
+5 mg
+Once daily (AM)
+Amlodipine
+5 mg
+Once daily
+Ferrous Sulfate
+325 mg
+Every other day
+Allergies
+Allergen
+Reaction Type
+NSAIDs
+GI upset / renal concern
+Penicillin
+Rash
+Reason for Visit
+Lupus nephritis monitoring visit. Urinalysis and renal panel ordered. Patient reports joint pain flare in left knee this week.
+Provider Signature:   Priya S. Mehta
+Date:   02/14/2026

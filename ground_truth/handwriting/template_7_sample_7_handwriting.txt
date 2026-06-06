@@ -1,0 +1,24 @@
+HOSPITAL
+Northview Eye & Vision Center
+1400 Mountain Pass Rd.
+Denver, CO 80202
+(303) 555-1234
+Patient Name: Susan Miller 
+MRN: 5592381 
+DOB: 05/18/1958 
+Gender: Female 
+Age: 67
+MRN: 5592381 
+Accession: V25-6678 
+Date: 06/23/2025
+The patient is a 67-year-old female who presents for evaluation of a gradual, progressive decline in vision in both eyes over the past two years. She reports increasing difficulty with reading fine print and experiences significant glare from headlights while driving at night. She denies any eye pain, redness, or discharge. Her last eye exam was three years ago.
+PROCEDURES:
+Visual Acuity (with correction): Right Eye (OD): 20/60; Left Eye (OS): 20/50. 
+Slit-lamp Examination: Revealed significant nuclear sclerotic and cortical changes in the lenses of both eyes, right greater than left. Cornea and anterior chambers are clear. 
+Tonometry (IOP): OD: 16 mmHg; OS: 15 mmHg.
+IMPRESSION:
+Bilateral age-related nuclear sclerotic cataracts, visually significant.
+Presbyopia.
+Patient Name: Susan Miller MRN: 5592381 Age: 67
+Electronically Signed By: Dr. Kevin Peterson, M.D. (Ophthalmology)
+Date: 06/23/2025 Time: 09:12

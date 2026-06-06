@@ -1,0 +1,33 @@
+GENERALHOSPITAL
+HOSPITAL
+Date of Visit: 06/21/2025
+Attending Provider: Dr. David Chen, MD
+Location: Community Urgent Care Center
+Visit ID: ENC-135792468
+Date of Birth: 03/02/1987 Age: 38 Sex: Female
+Address: 456 Oak Avenue, Springfield, USA 67890
+Chief Complaints:
+Worsening shortness of breath
+Audible wheezing
+Chest tightness
+Non-productive cough
+Medical History Snapshot:
+Asthma: Diagnosed in childhood.
+Seasonal Allergic Rhinitis: History of seasonal allergies, particularly in the spring.
+Surgical History: None.
+Family History: Mother with a history of asthma and eczema.
+Medications:
+Albuterol HFA (ProAir®) 90 mcg/actuation inhaler, 2 puffs every 4-6 hours as needed.
+Fluticasone/Salmeterol (Advair Diskus®) 250/50 mcg, 1 inhalation twice daily.
+Allergies: Penicillin (causes a rash).
+Visit Summary:
+This 38-year-old female with a known history of persistent asthma presents with a three-day history of progressively worsening shortness of breath, wheezing, and chest tightness. She reports developing a mild upper respiratory infection about one week ago, which has now resolved, but her respiratory symptoms have since escalated. She has increased the use of her rescue Albuterol inhaler to 6-7 times per day with only partial, temporary relief. Examination revealed a patient in mild respiratory distress with audible wheezing. A DuoNeb® (ipratropium bromide and albuterol sulfate) nebulizer treatment was administered in the office, which provided significant improvement in her work of breathing and reduced wheezing on auscultation. She is discharged with a prescription for a 5-day course of oral Prednisone. The patient was educated on her asthma action plan, the signs of a severe exacerbation requiring emergency care, and the importance of adherence to her controller medication. She will follow up with her primary care physician in 3-5 days.
+Exams:
+Vitals, General Appearance, HEENT (Head, Eyes, Ears, Nose, Throat), Pulmonary/Chest, Cardiovascular, Skin
+Findings:
+Vitals: BP 128/76 mmHg, Pulse 95 bpm, RR 22, Temp 98.9°F, SpO2 95% on room air.
+General Appearance: Alert and oriented. Mildly anxious, speaking in full sentences. Mild tachypnea noted.
+HEENT: Mucous membranes are moist. Mild boggy turbinates noted in the nares. Pharynx is non-erythematous.
+Pulmonary/Chest: Diffuse expiratory wheezes heard throughout all lung fields bilaterally. Good air entry but expiration is prolonged. No crackles or rhonchi. Mild subcostal retractions observed.
+Patient: Maria S. Garcia MRN: 456-78-9012
+Page 1/1

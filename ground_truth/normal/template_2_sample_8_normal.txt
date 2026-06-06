@@ -1,0 +1,40 @@
+Patient Name: Daniel Williams MRN: 2345678
+LAKEWOOD HOSPITAL
+PATHOLOGY REPORT
+831676002937
+Date of Birth: 10/05/1960 
+Age: 64 
+Gender: Male 
+Patient Address: 123 Palm Tree Ct, Tampa, FL 33605
+Bayfront Medical Center 
+750 Waterfront Ave Tampa, FL 33602 
+Phone: (813) 555-7000 
+Fax: (813) 555-7001
+Accession Number: S25-11223 
+Date of Collection: 06/20/2025 
+Time of Collection: 11:30 AM 
+Specimen Type: Stomach Mass, Partial Gastrectomy
+Ordering Physician: Dr. Jessica Martinez, MD 
+Practice: Gulf Coast Surgical Oncology 
+Address: 760 Medical Tower, Tampa, FL 33602 
+Phone: (813) 555-7050
+Final Diagnosis:
+STOMACH, PARTIAL GASTRECTOMY:
+GASTROINTESTINAL STROMAL TUMOR (GIST), SPINDLE CELL TYPE.
+Tumor size: 6.5 cm.
+Mitotic rate: 8 mitoses per 5 mm².
+Risk of Progression: High.
+Surgical margins are negative for tumor.
+Microscopic Description:
+Sections show a well-circumscribed but unencapsulated tumor composed of intersecting fascicles of uniform spindle cells with eosinophilic cytoplasm and ovoid nuclei. There is mild to moderate nuclear atypia. The mitotic activity is brisk, counting up to 8 mitoses per 5 mm². Necrosis is not identified.
+Gross Description:
+Received fresh, labeled with patient's name and "partial gastrectomy," is a 12.0 x 8.0 x 5.0 cm portion of stomach. Arising from the gastric wall is a well-circumscribed, fleshy, tan-white submucosal mass measuring 6.5 x 5.8 x 5.5 cm. The tumor is 0.4 cm from the nearest surgical margin. The overlying mucosa is intact.
+Comments:
+The combination of tumor size (6.5 cm) and high mitotic rate (8/5 mm²) places this Gastrointestinal Stromal Tumor (GIST) in the high-risk category for progressive disease. Immunohistochemical studies confirm the diagnosis, and molecular testing results are pending.
+Biomarkers:
+Immunohistochemistry:
+CD117 (c-kit): Positive (strong and diffuse)
+DOG1: Positive (strong and diffuse)
+CD34: Positive
+c-kit (KIT) Gene Mutation Analysis: Positive for mutation in Exon 11.
+Page 1 of 1

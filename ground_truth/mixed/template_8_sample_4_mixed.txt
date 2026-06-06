@@ -1,0 +1,21 @@
+HOSPITAL
+FAX
+To: Dr. Angela Desai, Pulmonology
+Facility: Clear Lung & Sleep Center
+Fax: (555) 789-0011
+Phone: (555) 789-0012
+Re: Consult for Patient: DAVIS, Brenda
+From: Dr. Oscar Holloway, MD
+Facility: Ridgemont Family Medicine
+Fax: (555) 567-1122
+Phone: (555) 567-1123
+Date: June 25, 2025
+Time: 11:28 AM
+Pages: 1 (including cover)
+Notes: 
+Dear Dr. Desai,
+I am referring my patient, Brenda Davis (DOB: 07/19/1978), for evaluation of a persistent dry cough.
+Ms. Davis was diagnosed with influenza A seven weeks ago. While her other symptoms have resolved, she is left with a severe, non-productive cough that disrupts her sleep. 
+I would appreciate your further evaluation for possible post-viral bronchial hyperreactivity.
+Thank you for your time and consultation.
+The information contained in this facsimile message is legally privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this telecopy is strictly prohibited. If you have received this telecopy in error, please immediately notify us by telephone and return the original message to us at the address above via the U.S. Postal Service. Thank you.

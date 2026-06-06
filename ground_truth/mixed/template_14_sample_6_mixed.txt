@@ -1,0 +1,58 @@
+RIVERSIDE HOSPITAL
+Surgical Pre-Operative Assessment
+Patient Name: Kenneth J. Harrington
+Date of Birth: 09/30/1950
+Proposed Procedure:
+Percutaneous coronary intervention — RCA stent placement
+Surgeon / Department:
+Dr. Gregory T. Sullivan, MD — Interventional Cardiology
+Pre-Admission Testing / Labs
+Test
+Result
+Test
+Result
+Test
+Result
+WBC:
+7.4
+Hgb:
+12.6
+Hct:
+38.0
+Na:
+139
+K:
+4.5
+Glucose:
+106
+PT:
+13.0
+INR:
+1.1
+PTT:
+30
+Cardiovascular & Pulmonary Risk Assessment
+[X] Hx of Myocardial Infarction
+[ ] Congestive Heart Failure
+[ ] Arrhythmia / Pacemaker
+[X] Hypertension
+[X] COPD / Asthma
+[ ] Obstructive Sleep Apnea
+[ ] Smoking History
+[ ] Exercise Tolerance >4 METs
+[ ] Other Cardiac History:
+Anesthesia & Airway
+Previous Anesthesia Issues: [X] No [ ] Yes
+Family Hx Malignant Hyperthermia: [X] No [ ] Yes
+Mallampati Score: [ ] I  [X] II  [ ] III  [ ] IV
+Loose Teeth / Dentures / Caps: [ ] No [X] Yes
+NPO Status (Last Meal/Drink):
+NPO after midnight; contrast allergy pre-medication (prednisone + diphenhydramine) administered at 20:00
+Weight (kg):
+84
+Pre-Operative Clearance
+Recommendations / Medications to Hold:
+Hold Warfarin; continue aspirin and clopidogrel. Pre-medicate with steroids and antihistamines for contrast allergy. Partial denture to be removed pre-procedure.
+Final Clearance: [X] CLEARED FOR SURGERY   [ ] NOT CLEARED   [ ] PENDING LABS
+Evaluating Clinician Signature:   Marcus A. Webb
+                                 Date:   02/26/2026

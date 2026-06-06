@@ -1,0 +1,21 @@
+HOSPITAL
+FAX
+To: Dr. Katherine Liu, Rheumatology
+Facility: Arthritis and Autoimmune Center
+Fax: (555) 234-5678
+Phone: (555) 234-5679
+Re: Patient Consult: THOMPSON, Patricia
+From: Dr. Mark Johnson, Internal Medicine
+Facility: Pineview Medical Associates
+Fax: (555) 876-5432
+Phone: (555) 876-5431
+Date: June 25, 2025
+Time: 11:34 AM
+Pages: 1 (including cover)
+Notes: 
+Subject: New Referral for Suspected Rheumatoid Arthritis
+Dear Dr. Liu,
+I am referring Patricia Thompson (DOB: 04/11/1980) to your clinic for evaluation of suspected new-onset inflammatory arthritis.
+She presents with a 3-month history of progressive, symmetrical pain and swelling in her wrists and MCP joints, with morning stiffness lasting over an hour. Her initial labs are positive for RF and she has an elevated CRP.
+I am sending her to you for definitive diagnosis and to discuss initiation of DMARD therapy. Thank you.
+The information contained in this facsimile message is legally privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this telecopy is strictly prohibited. If you have received this telecopy in error, please immediately notify us by telephone and return the original message to us at the address above via the U.S. Postal Service. Thank you.

@@ -1,0 +1,66 @@
+GENERALHOSPITAL
+HOSPITAL
+Full Name:
+Robert T. Nakamura
+Date of Birth (MM/DD/YYYY):
+11/05/1945
+Patient ID / MRN:
+MRN-012501
+Gender: [X] M  [ ] F  [ ] Other
+Phone Number: (832) 555-0891
+Today's Date: 04/01/2026
+Vital Signs
+BP (mmHg)
+Pulse (bpm)
+Resp (rpm)
+Temp (°F)
+SpO2 (%)
+Weight (lb)
+Height (in)
+158/92
+84
+18
+97.8
+94
+210
+68
+Medical History
+[ ] Hypertension
+[ ] Diabetes (Type I)
+[X] Diabetes (Type II)
+[ ] Asthma
+[X] COPD
+[X] Heart Disease
+[X] High Cholesterol
+[ ] Thyroid Disorder
+[ ] Arthritis
+[ ] Cancer
+[ ] Depression/Anxiety
+[ ] Other:
+Medications
+Medication Name
+Dosage
+Frequency
+Warfarin
+5 mg
+Once daily (PM)
+Tiotropium inhaler
+18 mcg
+Once daily
+Digoxin
+0.125 mg
+Once daily (AM)
+Metformin
+500 mg
+Twice daily
+Allergies
+Allergen
+Reaction Type
+Aspirin
+GI bleeding risk
+Morphine
+Extreme nausea
+Reason for Visit
+COPD exacerbation follow-up. SpO2 trending low at 94%. Patient reports increased dyspnea on exertion over past week.
+Provider Signature:   James R. Sullivan
+Date:   04/01/2026

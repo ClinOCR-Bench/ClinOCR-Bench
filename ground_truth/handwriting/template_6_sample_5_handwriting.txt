@@ -1,0 +1,26 @@
+PRECISION DIAGNOSTIC LAB
+831676002937
+Patient Name: Brenda Jones Date of Birth: 07/16/1996 
+MRN: 554321
+Ordering Physician: Dr. Patricia Wells 
+Procedure: Ultrasound-guided kidney biopsy
+Accession #: SK-25-88765
+Date of Procedure: 06/23/2025 Date of Report: 06/25/2025
+Clinical History: 29-year-old female with a known history of Systemic Lupus Erythematosus (SLE), presenting with new-onset proteinuria and hematuria. Biopsy is performed to evaluate for lupus nephritis.
+Diagnosis: Kidney, native, biopsy: Lupus Nephritis, Class IV-G (A)
+Light Microscopy Description: The specimen consists of two cores of renal cortex and medulla. Up to 28 glomeruli are identified for evaluation. All glomeruli show global, diffuse endocapillary and mesangial hypercellularity with neutrophilic infiltration. Multiple glomeruli contain wire loop lesions. There is moderate tubular atrophy and interstitial fibrosis involving approximately 30% of the cortex. No crescents or fibrinoid necrosis are seen.
+Immunofluorescence Description:
+IgG: 3+ granular staining in mesangium and capillary loops (full house pattern).
+IgA: 2+ granular staining in mesangium and capillary loops.
+IgM: 2+ granular staining in mesangium and capillary loops.
+C3: 3+ granular staining in mesangium and capillary loops.
+C1q: 2+ granular staining in mesangium and capillary loops.
+Fibrinogen: Negative.
+Albumin: Negative.
+Electron Microscopy Description: Electron microscopy confirms diffuse subendothelial and mesangial electron-dense deposits. Tubuloreticular inclusions are present within endothelial cells. There is approximately 50% podocyte foot process effacement.
+Comment: The combined findings are diagnostic of active, diffuse global lupus nephritis, ISN/RPS 2003 Class IV-G (A).
+Specimen: Native kidney biopsy
+Pathologist: Dr. Richard Lee
+Report status: Final
+Accession #: SK-25-88765
+Page 1 of 1
