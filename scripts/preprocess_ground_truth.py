@@ -6,6 +6,8 @@ ground_truth/. samples/handwritting/ is intentionally skipped: it has the
 same textual content as samples/original/, only the fonts differ.
 
 Final output: 16 templates x 8 samples = 128 text files.
+
+This is only the first pass. Manual audit will be performed to add image-embedded text. 
 """
 
 import os
