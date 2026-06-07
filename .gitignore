@@ -2,3 +2,5 @@ samples/
 ground_truth_per_sample/
 scans/
 HF_DISTRIBUTION_NOTES.md
+*.pyc
+dist/
