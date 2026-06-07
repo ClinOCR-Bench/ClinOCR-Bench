@@ -151,7 +151,7 @@ This supports three standard regimes: **0-shot**, **1-shot (homogeneous)**, and
 from datasets import load_dataset
 
 # pick a subset: normal | handwriting | poor | rotated | tables | mixed
-ds = load_dataset("<org>/ClinOCR-Bench", "handwriting")
+ds = load_dataset("ClinOCR-Bench/ClinOCR-Bench", "handwriting")
 test, exemplars = ds["test"], ds["train"]
 
 # one-shot demos are referenced by id; resolve against the train split

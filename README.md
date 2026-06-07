@@ -33,7 +33,7 @@ The dataset spans **6 subsets**, **16 templates**, and **384 documents** (64 per
 Document images, grouped by artifact subset:
 
 | Subset | Images | Ground truth | Description |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Normal-quality | `scans/normal/` | `ground_truth/normal/` | Clean, well-scanned documents |
 | Handwriting | `scans/handwriting/` | `ground_truth/handwriting/` | Documents rendered with handwriting fonts |
 | Poor-quality | `scans/poor/` | `ground_truth/poor/` | Low-resolution, photographed, crumbled, or degraded scans |
@@ -106,7 +106,7 @@ The benchmark is distributed two ways:
 from datasets import load_dataset
 
 # pick a subset: normal | handwriting | poor | rotated | tables | mixed
-ds = load_dataset("<org>/ClinOCR-Bench", "handwriting")
+ds = load_dataset("ClinOCR-Bench/ClinOCR-Bench", "handwriting")
 test, exemplars = ds["test"], ds["train"]
 
 # one-shot demos are referenced by id; resolve against the train split
@@ -117,8 +117,6 @@ hetero_demo = by_id[item["hetero_id"]]  # sibling-template exemplar
 
 # item["image"], item["ground_truth"] are the query; *_demo carry the shots
 ```
-
-<!-- TODO: replace <org> with the published Hugging Face repo id. -->
 
 ## License
 
