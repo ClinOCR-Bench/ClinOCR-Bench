@@ -4,7 +4,7 @@ A benchmark for evaluating Optical Character Recognition (OCR) systems on clinic
 
 - Hugging Face Hub: [ClinOCR-Bench/ClinOCR-Bench](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench)
 
-- Baseline OCR performance: [ClinOCR-Bench-Baseline](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench-Baseline)
+- Baseline OCR performance: [ClinOCR-Bench-Baseline](https://github.com/ClinOCR-Bench/ClinOCR-Bench-Baseline)
 
 ## Overview
 
