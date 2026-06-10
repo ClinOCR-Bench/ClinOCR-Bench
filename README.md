@@ -2,6 +2,10 @@
 
 A benchmark for evaluating Optical Character Recognition (OCR) systems on clinical documents.
 
+- Hugging Face Hub: [ClinOCR-Bench/ClinOCR-Bench](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench)
+
+- Baseline OCR performance: [ClinOCR-Bench-Baseline](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench-Baseline)
+
 ## Overview
 
 Scanned documents have been a headache in healthcare for decades. In the real world they arrive as faxed
