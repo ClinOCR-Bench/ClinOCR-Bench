@@ -1,0 +1,120 @@
+# Round 1
+Handwriting template 1, impression, date reported, interpreting radiologist, scheduled appointment, date of dictation... should be handwriting.
+Handwriting 1-5, "()", "%"
+Handwriting 2-1, headers should be printed.
+Handwriting 2-2, headers should be printed. Numbers.
+Handwriting 2-4, numbers.
+Handwriting 2-5, headers should be printed.
+Handwriting 2-7, "()"
+Handwriting 3-1, headers should be printed. "()" 
+Handwriting 3-3, "()" 
+Handwriting 3-8, ":" and "()" 
+Handwriting 4-1, used 4-2 document by mistake.
+Handwriting 4-2, headers should be printed.
+Handwriting 4-3, headers should be printed. "_"
+Handwriting 4-4, headers should be printed.
+Handwriting 4-5, headers, patient info should be printed.
+Handwriting 4-6, headers, patient info should be printed.
+Handwriting 4-7, headers, patient info should be printed.
+Handwriting 4-8, headers, patient info should be printed.
+Handwriting template 5, headers, patient info should be printed.
+Handwriting 5-1, change a font.
+Handwriting 6-1, headers should be printed.
+Handwriting 6-2, headers should be printed.
+Handwriting 6-3, headers should be printed.
+Handwriting 6-4, "()", "%", "+"
+Handwriting 6-5, headers should be printed.
+Handwriting 6-6, headers should be printed.
+Handwriting 6-7, headers should be printed.
+Handwriting 6-8, headers should be printed.
+Handwriting 7-4, patient into header should be printed.
+Handwriting 7-5, patient into header should be printed. Missing patient name, MRN
+Handwriting 7-6, patient into header should be printed. Missing patient name, MRN
+Handwriting 7-7, patient into header should be printed. Underline?
+Handwriting 7-8, patient into header should be printed.
+Handwriting 8-1, Header should be printed.
+Handwriting 8-2, Header should be printed.
+Handwriting 8-3, numbers
+Handwriting 8-4, Header should be printed.
+Handwriting 8-5, skewed underlines doesn't look good. Header should be printed.
+Poor 1-1, other words in background
+Poor 1-4, too easy
+Poor 2-1, "page 1 of 1" is missing
+Poor 2-2, "page 1 of 1" is missing
+Poor 2-4, too easy
+Poor 3-2, "page 1 of 1" is missing
+Poor 3-3, "page 1 of 1" is missing
+Poor 3-4, too easy
+Poor 4-4, too easy
+Poor 5-8, header is missing
+Poor 6-3, "page 1 of 1" is missing
+Poor 6-4, too easy
+Poor 6-5, water mark
+Poor 7-6, water mark
+Poor 8-6, water mark
+Poor 8-4, too easy
+Table 10-1, signature handwriting font is missing
+Table 10-3, signature handwriting font is missing
+Table 10-4, signature handwriting font is missing
+Table 10-7, signature handwriting font is missing
+Table 10-8, signature handwriting font is missing
+Table 13-4, signature and date handwriting font is missing
+Table 13-5, signature and date handwriting font is missing
+Table 13-6, signature and date handwriting font is missing
+Table 14-5, signature and date handwriting font is missing
+Table 14-6, signature and date handwriting font is missing
+Table 14-7, signature and date handwriting font is missing
+Table 14-8, signature and date handwriting font is missing
+
+# Round 2
+Thanks for the revision. I reviewed all except “mixed”. Below is the updated audit. “Poor-quality” and “Table” are all good.
+The main issues are:
+1.	In the handwriting subset, the printed headers should not rotate. Handwriting can rotate slightly (mimicking real human), but the printed headers should not. 
+2.	In the rotate subset, many phone pictures did not rotate > 30 degrees. We define rotation as, “>= +-30 degrees of rotation”. You can download an angle meter App on your phone to check. You don’t have to retake those pictures, just rotate them with photo editor by 90, 180, 270 degrees.
+3.	In the rotate subset, do not include hand-drawing or marks. Those are for poor-quality. 
+
+Handwriting 2-1, headers should not rotate
+Handwriting 2-2, Numbers.
+Handwriting 2-5, headers should not rotate
+Handwriting 4-6, headers should not rotate
+Handwriting 4-7, headers should not rotate
+Handwriting 5-4, Medication should be printed.
+Handwriting 6-1, headers should not rotate
+Handwriting 6-2, Report status should be printed.
+Handwriting 6-4, headers should not rotate
+Handwriting 7-4, headers should not rotate
+Handwriting 7-5, headers should not rotate. Missing patient name, MRN
+Handwriting 7-6, headers should not rotate. Missing patient name, MRN
+Handwriting 7-8, headers should not rotate
+Handwriting 8-1, headers should not rotate
+Handwriting 8-2, headers should not rotate
+Handwriting 8-3, "Notes" should not overlap
+Handwriting 8-4, headers should not rotate
+Handwriting 8-5, headers should not rotate
+Rotate 1-2, should not be folded, rotated only 16 degrees
+Rotate 1-3, rotated only 13 degrees
+Rotate 1-4, rotated only 20 degrees
+Rotate 2-2, should not be folded, rotated only 16 degrees
+Rotate 3-2, rotated only 15 degrees
+Rotate 3-3, rotated only 17 degrees
+Rotate 3-4, rotated only 23 degrees
+Rotate 4-2, rotated only 22 degrees
+Rotate 4-4, rotated only 16 degrees
+Rotate 5-2, rotated only 20 degrees
+Rotate 5-3, should not have marks
+Rotate 6-3, rotated only 20 degrees, should not have marks
+Rotate 7-1, rotated only 27 degrees, should not have marks
+Rotate 7-2, rotated only 27 degrees, should not have marks
+Rotate 7-3, should not have marks
+Rotate 7-4, rotated only 22 degrees, should not have marks
+Rotate 8-1, rotated only 26 degrees
+Rotate 8-2, rotated only 26 degrees, should not have marks
+
+
+# Round 3
+Handwriting 7-5, Missing patient name, MRN
+Handwriting 7-6, Missing patient name, MRN
+Rotate 1-2, should not be folded, rotated only 16 degree
+
+# Round 4
+Mixed 3-4, page number not shown
