@@ -1,6 +1,12 @@
 # ClinOCR-Bench
 
+[![arXiv](https://img.shields.io/badge/arXiv-2607.03650-b31b1b.svg)](https://arxiv.org/abs/2607.03650)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench)
+
 A benchmark for evaluating Optical Character Recognition (OCR) systems on clinical documents.
+
+- Paper: [arXiv:2607.03650](https://arxiv.org/abs/2607.03650)
 
 - Hugging Face Hub: [ClinOCR-Bench/ClinOCR-Bench](https://huggingface.co/datasets/ClinOCR-Bench/ClinOCR-Bench)
 
@@ -128,4 +134,16 @@ Released under the [MIT License](LICENSE).
 
 ## Citation
 
-<!-- TODO: add citation / BibTeX. -->
+For more information, please refer to our paper:
+
+```bibtex
+@misc{hsu2026clinocrbenchcomprehensiveclinicalscanned,
+      title={ClinOCR-Bench: A Comprehensive Clinical Scanned Document Dataset for Optical Character Recognition Model Evaluation}, 
+      author={Enshuo Hsu and Jin Zhou and Kirk Roberts},
+      year={2026},
+      eprint={2607.03650},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.03650}, 
+}
+```
